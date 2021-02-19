@@ -25,10 +25,9 @@ jobs:
       - name: Clean up errors in TMX
         run: |
           bash .github/scripts/fix_tmx.sh
-      - run : git config --global user.email 'flodolo@users.noreply.github.com'
-      - uses: peter-evans/create-pull-request@v3
-        with:
-          commit-message: "Update TMX from Pontoon (${{ steps.date.outputs.date }})"
-          branch: tmx_automation
-          delete-branch: true
-          title: "Update TMX from Pontoon (${{ steps.date.outputs.date }})"
+      - run : |
+          git config user.name 'flodolo'
+          git config user.email 'flodolo@users.noreply.github.com'
+          git add .
+          git commit -m "Update TMX from Pontoon (${{ steps.date.outputs.date }})"
+          git push
