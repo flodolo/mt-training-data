@@ -24,7 +24,7 @@ def main():
         os.path.join(os.path.dirname(__file__), os.pardir, os.pardir)
     )
 
-    for locale in locales:
+    for locale in ["fr", "it"]:
         # Create locale folder if missing
         locale_path = os.path.join(root_path, locale)
         if not os.path.isdir(locale_path):
