@@ -24,7 +24,7 @@ def main():
         os.path.join(os.path.dirname(__file__), os.pardir, os.pardir)
     )
 
-    for locale in ["fr", "it"]:
+    for locale in locales:
         # Create locale folder if missing
         locale_path = os.path.join(root_path, locale)
         if not os.path.isdir(locale_path):
@@ -37,7 +37,8 @@ def main():
                 f"https://pontoon.mozilla.org/translation-memory/{tmx_filename}"
             )
 
-            with open(os.path.join(locale_path, tmx_filename), "wb") as f:
+            output_filename = f"{locale}_pontoon.tmx"
+            with open(os.path.join(locale_path, output_filename), "wb") as f:
                 f.write(response.content)
         except Exception as e:
             print(e)
