@@ -32,13 +32,11 @@ def main():
 
         print(f"Downloading TMX for {locale}")
         try:
-            tmx_filename = f"{locale}.all-projects.tmx"
             response = requests.get(
-                f"https://pontoon.mozilla.org/translation-memory/{tmx_filename}"
+                f"https://pontoon.mozilla.org/translation-memory/{locale}.all-projects.tmx"
             )
 
-            output_filename = f"{locale}_pontoon.tmx"
-            with open(os.path.join(locale_path, output_filename), "wb") as f:
+            with open(os.path.join(locale_path, f"{locale}_pontoon.tmx"), "wb") as f:
                 f.write(response.content)
         except Exception as e:
             print(e)
