@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-02-19T16:15:51.911603">
+	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-03-01T00:23:19.393391">
 	</header>
 	<body>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:shortcut-rerecord-toggle" srclang="en-US">
@@ -770,7 +770,7 @@ We want to make voice data freely and publicly available, and make sure the data
 				<seg>By opting in to receive emails you state that you are okay with Mozilla handling this info as explained in Mozilla’s &lt;privacyLink&gt;Privacy Policy&lt;privacyLink&gt;.</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Эл. хатларга язылу белән сез Мозилланың әлеге мәгълүматны &lt;privacyLink&gt;Хосусыйлык Сәясәтендә&lt;privacyLink&gt; аңлатылганча эшкәртүе белән килешәсез.</seg>
+				<seg>Эл. хатларга язылу белән Cез Мозилланың әлеге мәгълүматны &lt;privacyLink&gt;Хосусыйлык Сәясәтендә&lt;privacyLink&gt; аңлатылганча эшкәртүе белән килешәсез.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:email-opt-in-privacy" srclang="en-US">
@@ -778,7 +778,7 @@ We want to make voice data freely and publicly available, and make sure the data
 				<seg>By opting in to receive emails you state that you are okay with Mozilla handling this info as explained in Mozilla’s &lt;privacyLink&gt;Privacy Policy&lt;privacyLink&gt;.</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Эл. хатларга язылу белән Cез Мозилланың әлеге мәгълүматны &lt;privacyLink&gt;Хосусыйлык Сәясәтендә&lt;privacyLink&gt; аңлатылганча эшкәртүе белән килешәсез.</seg>
+				<seg>Эл. хатларга язылу белән сез Мозилланың әлеге мәгълүматны &lt;privacyLink&gt;Хосусыйлык Сәясәтендә&lt;privacyLink&gt; аңлатылганча эшкәртүе белән килешәсез.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:confirm-no-identify" srclang="en-US">
@@ -803,7 +803,7 @@ We want to make voice data freely and publicly available, and make sure the data
 Recognition engines that use this data to improve their accuracy.</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Үзегез хакында бераз мәгълүмат бирсәгез, Сез Common Voice проектына җибәргән аудио мәгълүматны сөйләм тану системаларының сыйфатын арттыру өчен тагын да файдалырак булачак.</seg>
+				<seg>Үзегез хакында бераз мәгълүмат бирсәгез, Сез Common Voice проектына җибәргән аудио мәгълүмат сөйләм тану системаларының сыйфатын арттыру өчен тагын да файдалырак булачак.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:why-profile-text" srclang="en-US">
@@ -812,7 +812,7 @@ Recognition engines that use this data to improve their accuracy.</seg>
 Recognition engines that use this data to improve their accuracy.</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Үзегез хакында бераз мәгълүмат бирсәгез, Сез Common Voice проектына җибәргән аудио мәгълүмат сөйләм тану системаларының сыйфатын арттыру өчен тагын да файдалырак булачак.</seg>
+				<seg>Үзегез хакында бераз мәгълүмат бирсәгез, Сез Common Voice проектына җибәргән аудио мәгълүматны сөйләм тану системаларының сыйфатын арттыру өчен тагын да файдалырак булачак.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:terms-contributions-content" srclang="en-US">
@@ -839,7 +839,7 @@ Recognition engines that use this data to improve their accuracy.</seg>
 				<seg>Common Voice'ны куллануыгыз аша Сез безнең &lt;termsLink&gt;Шартлар&lt;/termsLink&gt; һәм &lt;privacyLink&gt;Хосуйсыйлык сәясәте&lt;/privacyLink&gt; белән килешәсез.</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:cancel-avatar-clip-recording" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:contact-cancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -847,7 +847,7 @@ Recognition engines that use this data to improve their accuracy.</seg>
 				<seg>Баш тарту</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:contact-cancel" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:cancel-avatar-clip-recording" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -1120,7 +1120,7 @@ clip recordings.</seg>
 				<seg>Ябу</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:profile-close" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:close" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close</seg>
 			</tuv>
@@ -1128,7 +1128,7 @@ clip recordings.</seg>
 				<seg>Ябу</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:close" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:profile-close" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close</seg>
 			</tuv>
@@ -1360,7 +1360,7 @@ Can you let us know why you would like your recordings deleted?</seg>
 				<seg>Үз өлешеңне кертү</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/cross-locale.ftl:contribute" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:contribute" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Contribute</seg>
 			</tuv>
@@ -1368,7 +1368,7 @@ Can you let us know why you would like your recordings deleted?</seg>
 				<seg>Үз өлешеңне кертү</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:contribute" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/cross-locale.ftl:contribute" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Contribute</seg>
 			</tuv>
@@ -1509,7 +1509,7 @@ Can you let us know why you would like your recordings deleted?</seg>
 				<seg>{ $count }mo</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>{ $count } ай</seg>
+				<seg>ай</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:x-months-short" srclang="en-US">
@@ -1517,7 +1517,7 @@ Can you let us know why you would like your recordings deleted?</seg>
 				<seg>{ $count }mo</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>ай</seg>
+				<seg>{ $count } ай</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:x-weeks-short" srclang="en-US">
@@ -2052,7 +2052,7 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Профильгә үзгәрешләр кертү</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:terms-effective" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:privacy-effective" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Effective { DATETIME($date, month: "long", year: "numeric", day: "numeric") }</seg>
 			</tuv>
@@ -2060,7 +2060,7 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>{ DATETIME($date, month: "long", year: "numeric", day: "numeric") } датасыннан башлап үз көчендә</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:privacy-effective" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:terms-effective" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Effective { DATETIME($date, month: "long", year: "numeric", day: "numeric") }</seg>
 			</tuv>
@@ -2076,23 +2076,7 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Катнашучыларга таләпләр</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/cross-locale.ftl:get-involved-email" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Email</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Эл. почта</seg>
-			</tuv>
-		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:profile-form-email" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Email</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Эл. почта</seg>
-			</tuv>
-		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:email-input" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Email</seg>
 			</tuv>
@@ -2132,6 +2116,22 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Электрон почта</seg>
 			</tuv>
 		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:email-input" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Email</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Эл. почта</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/cross-locale.ftl:get-involved-email" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Email</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Эл. почта</seg>
+			</tuv>
+		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:email-already-used" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Email is already used for a different account</seg>
@@ -2164,14 +2164,6 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Email аша язылулар</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:en" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>English</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Инглизчә</seg>
-			</tuv>
-		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:english" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>English</seg>
@@ -2188,7 +2180,7 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Инглизчә</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:english" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:en" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>English</seg>
 			</tuv>
@@ -2197,6 +2189,14 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:en" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>English</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Инглизчә</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:english" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>English</seg>
 			</tuv>
@@ -2332,7 +2332,7 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Чыгу һәм клипларны бетерү</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:request-language-cancel" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:profile-form-cancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Exit Form</seg>
 			</tuv>
@@ -2340,7 +2340,7 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Формулярдан чыгу</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:profile-form-cancel" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:request-language-cancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Exit Form</seg>
 			</tuv>
@@ -2604,7 +2604,7 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Алманча</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:about-nav-get-involved" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:about-get-involved" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Get involved</seg>
 			</tuv>
@@ -2612,7 +2612,7 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Катнашу</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:about-get-involved" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:about-nav-get-involved" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Get involved</seg>
 			</tuv>
@@ -3828,7 +3828,7 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Тел</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:language" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:profile-form-language" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Language</seg>
 			</tuv>
@@ -3844,7 +3844,7 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Тел</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:profile-form-language" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:language" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Language</seg>
 			</tuv>
@@ -4060,23 +4060,23 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Сылтама копияләнде</seg>
 			</tuv>
 		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:listen" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Listen</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Тыңлау</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:listen" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Listen</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Тыңлау</seg>
+			</tuv>
+		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:about-listen" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Listen</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Тыңлау</seg>
-			</tuv>
-		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:listen" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Listen</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Тыңлау</seg>
-			</tuv>
-		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:listen" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Listen</seg>
 			</tuv>
@@ -4417,7 +4417,7 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Moksha</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Мукшыча</seg>
+				<seg>Мокшача</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:mdf" srclang="en-US">
@@ -4425,7 +4425,7 @@ The dataset currently consists of &lt;b&gt;{ $valid }&lt;/b&gt; validated hours 
 				<seg>Moksha</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Мокшача</seg>
+				<seg>Мукшыча</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:mn" srclang="en-US">
@@ -4654,12 +4654,12 @@ Mycroft runs anywhere - on a desktop computer, inside an automobile, or on a Ras
 				<seg>&lt;name&gt;Аудиоязмалар.&lt;/name&gt; Аудиоязмалар, алар белән бәйле демографик мәгълүмат белән беррәттән, теләгән һәркем тарафыннан кулланыла алсын өчен, Common Voice мәгълүмат базасына куела ала.</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:native-language" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:profile-form-native-language" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Native Language</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Ана теле</seg>
+				<seg>Туган тел</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:profile-form-native-language" srclang="en-US">
@@ -4678,12 +4678,12 @@ Mycroft runs anywhere - on a desktop computer, inside an automobile, or on a Ras
 				<seg>Ана теле</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:profile-form-native-language" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:native-language" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Native Language</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Туган тел</seg>
+				<seg>Ана теле</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:ne-np" srclang="en-US">
@@ -4718,23 +4718,23 @@ Mycroft runs anywhere - on a desktop computer, inside an automobile, or on a Ras
 				<seg>Алдагы максат: { $goal }</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:vote-no" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>No</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Юк</seg>
-			</tuv>
-		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:vote-no" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>No</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Юк</seg>
-			</tuv>
-		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:data-download-deny" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>No</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Юк</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:vote-no" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>No</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Юк</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:vote-no" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>No</seg>
 			</tuv>
@@ -4878,7 +4878,7 @@ contributors to improve the quality. It’s that simple!</seg>
 			</tuv>
 			<tuv xml:lang="tt">
 				<seg>Хәзер Сез, безгә үзегезнең тавышыгызны «иганә итеп», ачык чыганаклы тавышлар/аудиоязмалар базасын төзергә ярдәм итә аласыз. Ул базаны — төрле җиһазлар һәм Интернет өчен инноватив кушымталар ясау өчен — һәркем дә куллана алачак.
-Машиналарга чын кешеләрнең ничек сөйләшүен өйрәтү өчен җөмләләр укыгыз. Сыйфатны күтәрү нияте белән, проектка ярдәм итүче башка кешеләрнең эшен дә тикшерегез. Бу бик гади!</seg>
+Машиналарга кешеләрнең ничек сөйләшүен өйрәтү өчен җөмләләр укыгыз. Сыйфатны күтәрү нияте белән, проектка ярдәм итүче башка кешеләрнең эшен дә тикшерегез. Бу бик гади!</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:wall-of-text-more-desktop" srclang="en-US">
@@ -4889,7 +4889,7 @@ contributors to improve the quality. It’s that simple!</seg>
 			</tuv>
 			<tuv xml:lang="tt">
 				<seg>Хәзер Сез, безгә үзегезнең тавышыгызны «иганә итеп», ачык чыганаклы тавышлар/аудиоязмалар базасын төзергә ярдәм итә аласыз. Ул базаны — төрле җиһазлар һәм Интернет өчен инноватив кушымталар ясау өчен — һәркем дә куллана алачак.
-Машиналарга кешеләрнең ничек сөйләшүен өйрәтү өчен җөмләләр укыгыз. Сыйфатны күтәрү нияте белән, проектка ярдәм итүче башка кешеләрнең эшен дә тикшерегез. Бу бик гади!</seg>
+Машиналарга чын кешеләрнең ничек сөйләшүен өйрәтү өчен җөмләләр укыгыз. Сыйфатны күтәрү нияте белән, проектка ярдәм итүче башка кешеләрнең эшен дә тикшерегез. Бу бик гади!</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:n-clips" srclang="en-US">
@@ -5042,7 +5042,7 @@ months if { NUMBER($people) } people record { NUMBER($clipsPerDay) } clips a day
 				<seg>Optionally submitted demographic data (e.g. age, sex, language, and accent) is de-identified from your submitted voice data and will never be made public on your profile.</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Сезнең ихтыярыгыз белән тапшырылган демографик мәгълүмат (мәсәлән, яшь, җенес, тел һәм акцент) нәшер ителәсе аудиоязмалардан аерып алыначак һәм беркайчан да ачык рәвештә беркая да урнаштырылмаячак.</seg>
+				<seg>Сезнең ихтыярыгыз белән тапшырылган демографик мәгълүмат (мәсәлән, яшь, җенес, тел һәм акцент) нәшер ителәсе аудиоязмалардан бүлеп алыначак һәм беркайчан да ачык рәвештә беркая да урнаштырылмаячак.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:demographic-deidentified" srclang="en-US">
@@ -5050,7 +5050,7 @@ months if { NUMBER($people) } people record { NUMBER($clipsPerDay) } clips a day
 				<seg>Optionally submitted demographic data (e.g. age, sex, language, and accent) is de-identified from your submitted voice data and will never be made public on your profile.</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Сезнең ихтыярыгыз белән тапшырылган демографик мәгълүмат (мәсәлән, яшь, җенес, тел һәм акцент) нәшер ителәсе аудиоязмалардан бүлеп алыначак һәм беркайчан да ачык рәвештә беркая да урнаштырылмаячак.</seg>
+				<seg>Сезнең ихтыярыгыз белән тапшырылган демографик мәгълүмат (мәсәлән, яшь, җенес, тел һәм акцент) нәшер ителәсе аудиоязмалардан аерып алыначак һәм беркайчан да ачык рәвештә беркая да урнаштырылмаячак.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:demographic-deidentified-clarity" srclang="en-US">
@@ -5201,20 +5201,20 @@ You can view our source sentences in this &lt;githubLink&gt;GitHub folder&lt;/gi
 				<seg>p</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:about-partners" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Partners</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Партнерлар</seg>
-			</tuv>
-		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:about-nav-partners" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Partners</seg>
 			</tuv>
 			<tuv xml:lang="tt">
 				<seg>Партнёрлар</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:about-partners" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Partners</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Партнерлар</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:fa" srclang="en-US">
@@ -5345,23 +5345,23 @@ You can view our source sentences in this &lt;githubLink&gt;GitHub folder&lt;/gi
 				<seg>Туктату/дәвам итү өчен { shortcut-play-toggle } төймәсенә басыгыз</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:privacy" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Privacy</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Хосусыйлык</seg>
-			</tuv>
-		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:privacy" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Privacy</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Хосусыйлык</seg>
-			</tuv>
-		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:terms-privacy-title" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Privacy</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Хосусыйлык</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:privacy" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Privacy</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Хосусыйлык</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:privacy" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Privacy</seg>
 			</tuv>
@@ -6489,7 +6489,7 @@ You can view our source sentences in this &lt;githubLink&gt;GitHub folder&lt;/gi
 				<seg>Испанча (Чили)</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:about-speak" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:speak" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Speak</seg>
 			</tuv>
@@ -6497,7 +6497,7 @@ You can view our source sentences in this &lt;githubLink&gt;GitHub folder&lt;/gi
 				<seg>Сөйләү</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:speak" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:about-speak" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Speak</seg>
 			</tuv>
@@ -6693,7 +6693,31 @@ To make voice recognition even more universal, we're collecting voice samples in
 				<seg>көн рәттән</seg>
 			</tuv>
 		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:contact-submit" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Submit</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Җибәрү</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/cross-locale.ftl:get-involved-submit" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Submit</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Җибәрү</seg>
+			</tuv>
+		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:download-form-submit" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Submit</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Җибәрү</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:submit-form-action" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Submit</seg>
 			</tuv>
@@ -6717,31 +6741,7 @@ To make voice recognition even more universal, we're collecting voice samples in
 				<seg>Җибәрү</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:submit-form-action" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Submit</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Җибәрү</seg>
-			</tuv>
-		</tu>
 		<tu tuid="common-voice:web/locales/en/cross-locale.ftl:get-involved-submit" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Submit</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Җибәрү</seg>
-			</tuv>
-		</tu>
-		<tu tuid="common-voice:web/locales/en/cross-locale.ftl:get-involved-submit" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Submit</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Җибәрү</seg>
-			</tuv>
-		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:contact-submit" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Submit</seg>
 			</tuv>
@@ -8156,20 +8156,20 @@ or join us on &lt;slackLink&gt;Slack&lt;/slackLink&gt;.</seg>
 				<seg>Mozilla'да без тавыш технологияләре тирәсендә бер җәмгыять туплау белән мәшгуль. Яңалыклар, яңа мәгълүмат чыганакларын уртаклашып тору һәм Сезнең бу мәгълүматны ничек куллануыгыз турында хәбәрдар булып торыр өчен, элемтәдә торасыбыз килә.</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:download-stayintouch" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>We at Mozilla are building a community around voice technology. We would like to stay in touch with updates, new data sources and to hear more about how you're using this data.</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Mozilla'да без сөйләм технологияләре тирәсендә бер җәмгыять туплыйбыз. Безнең хәбәрләр, яңа мәгълүмат чыганаклары, һәм Сезнең бу мәгълүматларны ничек куллануыгыз хакында элемтәдә торасыбыз килә.</seg>
-			</tuv>
-		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:stayintouch" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>We at Mozilla are building a community around voice technology. We would like to stay in touch with updates, new data sources and to hear more about how you're using this data.</seg>
 			</tuv>
 			<tuv xml:lang="tt">
 				<seg>Mozilla'да без сөйләм технологияләре тирәсендә бер җәмгыять туплау белән мәшгуль. Безнең хәбәрләр, яңа мәгълүмат чыганаклары, һәм Сезнең бу мәгълүматны ничек куллануыгыз хакында аралашып торасыбыз килә.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:download-stayintouch" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>We at Mozilla are building a community around voice technology. We would like to stay in touch with updates, new data sources and to hear more about how you're using this data.</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Mozilla'да без сөйләм технологияләре тирәсендә бер җәмгыять туплыйбыз. Безнең хәбәрләр, яңа мәгълүмат чыганаклары, һәм Сезнең бу мәгълүматларны ничек куллануыгыз хакында элемтәдә торасыбыз килә.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/cross-locale.ftl:get-involved-stayintouch" srclang="en-US">
@@ -8508,12 +8508,12 @@ Common Voice күптелле мәгълүмат тупланмасы үз тө�
 				<seg>Нәрсә ул Common Voice?</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-what-q" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-what-cv-q" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>What is Common Voice?</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>«Common Voice» нәрсә ул?</seg>
+				<seg>Нәрсә ул Common Voice?</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-what-is-cv" srclang="en-US">
@@ -8524,12 +8524,12 @@ Common Voice күптелле мәгълүмат тупланмасы үз тө�
 				<seg>Common Voice нәрсә ул?</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-what-cv-q" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-what-q" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>What is Common Voice?</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Нәрсә ул Common Voice?</seg>
+				<seg>«Common Voice» нәрсә ул?</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:report-ask" srclang="en-US">
@@ -8620,22 +8620,6 @@ Common Voice күптелле мәгълүмат тупланмасы үз тө�
 				<seg>&lt;policy&gt;Mozilla хосусыйлык сәясәте&lt;/policy&gt; Mozilla (ягъни без) Сездән нинди дә булса мәгълүмат алганда безнең ул мәгълүмат белән ничек эш итүебезне тасвирлый.</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-when-release-q" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>When will you release Common Voice data in other languages?</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Башка телләрдәге Common Voice мәгълүматын сез кайчан нәшер итәчәксез?</seg>
-			</tuv>
-		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-when-release-q" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>When will you release Common Voice data in other languages?</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Башка телләрдәге Common Voice мәгълүматын сез кайчан нәшер итәчәксез?</seg>
-			</tuv>
-		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-when-release2-q" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>When will you release Common Voice data in other languages?</seg>
@@ -8644,12 +8628,20 @@ Common Voice күптелле мәгълүмат тупланмасы үз тө�
 				<seg>Башка телләрдәге Common Voice мәгълүматын кайчан нәшер итәчәксез?</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-where-src-from-2-q" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-when-release-q" srclang="en-US">
 			<tuv xml:lang="en-US">
-				<seg>Where does the source text come from?</seg>
+				<seg>When will you release Common Voice data in other languages?</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Чыганак текст каян килә?</seg>
+				<seg>Башка телләрдәге Common Voice мәгълүматын сез кайчан нәшер итәчәксез?</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-when-release-q" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>When will you release Common Voice data in other languages?</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Башка телләрдәге Common Voice мәгълүматын сез кайчан нәшер итәчәксез?</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-where-src-from-q" srclang="en-US">
@@ -8674,6 +8666,14 @@ Common Voice күптелле мәгълүмат тупланмасы үз тө�
 			</tuv>
 			<tuv xml:lang="tt">
 				<seg>Чыганак текстлар кайдан алына?</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-where-src-from-2-q" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Where does the source text come from?</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Чыганак текст каян килә?</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:about-nav-why-common-voice" srclang="en-US">
@@ -8796,6 +8796,14 @@ Common Voice күптелле мәгълүмат тупланмасы үз тө�
 				<seg>Common Voice ни өчен Mozilla миссиясенең өлеше булып тора?</seg>
 			</tuv>
 		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-mission-q" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Why is Common Voice part of the Mozilla mission?</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Ни өчен Common Voice проекты Mozilla миссиясенең өлеше булып тора?</seg>
+			</tuv>
+		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-why-mission-q" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Why is Common Voice part of the Mozilla mission?</seg>
@@ -8804,12 +8812,12 @@ Common Voice күптелле мәгълүмат тупланмасы үз тө�
 				<seg>Common Voice ни өчен Mozilla миссиясенең өлеше булып тора?</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-mission-q" srclang="en-US">
+		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-why-important-q" srclang="en-US">
 			<tuv xml:lang="en-US">
-				<seg>Why is Common Voice part of the Mozilla mission?</seg>
+				<seg>Why is it important?</seg>
 			</tuv>
 			<tuv xml:lang="tt">
-				<seg>Ни өчен Common Voice проекты Mozilla миссиясенең өлеше булып тора?</seg>
+				<seg>Бу ни өчен мөһим?</seg>
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-why-important-q" srclang="en-US">
@@ -8821,14 +8829,6 @@ Common Voice күптелле мәгълүмат тупланмасы үз тө�
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-important-q" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Why is it important?</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Бу ни өчен мөһим?</seg>
-			</tuv>
-		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:faq-why-important-q" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Why is it important?</seg>
 			</tuv>
@@ -8908,14 +8908,6 @@ Common Voice күптелле мәгълүмат тупланмасы үз тө�
 				<seg>y</seg>
 			</tuv>
 		</tu>
-		<tu tuid="common-voice:web/locales/en/messages.ftl:data-download-yes" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Yes</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Әйе</seg>
-			</tuv>
-		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:vote-yes" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Yes</seg>
@@ -8933,6 +8925,14 @@ Common Voice күптелле мәгълүмат тупланмасы үз тө�
 			</tuv>
 		</tu>
 		<tu tuid="common-voice:web/locales/en/messages.ftl:vote-yes" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Yes</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Әйе</seg>
+			</tuv>
+		</tu>
+		<tu tuid="common-voice:web/locales/en/messages.ftl:data-download-yes" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Yes</seg>
 			</tuv>
@@ -9278,7 +9278,7 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>{ $language }нә өлеш кертү өчен уңышлы теркәлдегез. Рәхмәт.</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:500-error" srclang="en-US">
+		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:500-error" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>500 Error</seg>
 			</tuv>
@@ -9286,7 +9286,7 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>500 хатасы</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:500-error" srclang="en-US">
+		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:500-error" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>500 Error</seg>
 			</tuv>
@@ -9718,20 +9718,20 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>Ниләрне синхронларга икәнен сайлагыз</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:citys-countrys-estimated" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>%(city)s, %(country)s (estimated)</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>%(city)s, %(country)s (чама белән)</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:citys-countrys-estimated" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>%(city)s, %(country)s (estimated)</seg>
 			</tuv>
 			<tuv xml:lang="tt">
 				<seg>%(city)s%(country)s (чама белән)</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:citys-countrys-estimated" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>%(city)s, %(country)s (estimated)</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>%(city)s, %(country)s (чама белән)</seg>
 			</tuv>
 		</tu>
 		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:citys-statecodes-countrys-estimated" srclang="en-US">
@@ -9982,7 +9982,7 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>Бу номерга хәбәр җибәреп булмады</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:countrys-estimated" srclang="en-US">
+		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:countrys-estimated" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>%(country)s (estimated)</seg>
 			</tuv>
@@ -9990,7 +9990,7 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>%(country)s (чама белән)</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:countrys-estimated" srclang="en-US">
+		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:countrys-estimated" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>%(country)s (estimated)</seg>
 			</tuv>
@@ -10038,7 +10038,7 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>Хисап булдыру</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:create-new-password" srclang="en-US">
+		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:create-new-password" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Create new password</seg>
 			</tuv>
@@ -10046,7 +10046,7 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>Яңа парол булдыру</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:create-new-password" srclang="en-US">
+		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:create-new-password" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Create new password</seg>
 			</tuv>
@@ -10854,7 +10854,7 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>Раслау кодында хата</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:ip-address-ips" srclang="en-US">
+		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:ip-address-ips" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>IP address: %(ip)s</seg>
 			</tuv>
@@ -10862,7 +10862,7 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>IP адрес: %(ip)s</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:ip-address-ips" srclang="en-US">
+		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:ip-address-ips" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>IP address: %(ip)s</seg>
 			</tuv>
@@ -11494,20 +11494,20 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>бернинди дә</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:oh-dear-something-went-wrong-there-weve-been-notified-and-will-get-working-on-a-fix" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Oh dear, something went wrong there. We've been notified and will get working on a fix.</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Әй Алла, нидер булган монда. Хәбәрен алдык һәм бу хатаны төзәтү өстендә эшләрбез.</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:oh-dear-something-went-wrong-there-weve-been-notified-and-will-get-working-on-a-fix" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Oh dear, something went wrong there. We've been notified and will get working on a fix.</seg>
 			</tuv>
 			<tuv xml:lang="tt">
 				<seg>Ий Ходаем, монда нидер булды. Моның хәбәрен алдык һәм бу хатаны төзәтү өстендә эшләячәкбез.</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:oh-dear-something-went-wrong-there-weve-been-notified-and-will-get-working-on-a-fix" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Oh dear, something went wrong there. We've been notified and will get working on a fix.</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Әй Алла, нидер булган монда. Хәбәрен алдык һәм бу хатаны төзәтү өстендә эшләрбез.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:old-password" srclang="en-US">
@@ -12158,20 +12158,20 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>Икенчел эл. почта өстәлде</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:secondary-email-removed" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Secondary email removed</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Икенчел эл. почта бетерелде</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-accounts:LC_MESSAGES/server.po:secondary-email-removed" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Secondary email removed</seg>
 			</tuv>
 			<tuv xml:lang="tt">
 				<seg>Икенчел электрон почта бетерелде</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:secondary-email-removed" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Secondary email removed</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Икенчел эл. почта бетерелде</seg>
 			</tuv>
 		</tu>
 		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:secondary-email-verified" srclang="en-US">
@@ -12270,6 +12270,14 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>Паролны күрсәтү</seg>
 			</tuv>
 		</tu>
+		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:button-textsign-in" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Sign in</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Керү</seg>
+			</tuv>
+		</tu>
 		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:header-textsign-in" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Sign in</seg>
@@ -12278,7 +12286,15 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>Керү</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:button-textsign-in" srclang="en-US">
+		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:submit-buttonsign-in" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Sign in</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Керү</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:header-textsign-in" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Sign in</seg>
 			</tuv>
@@ -12294,22 +12310,6 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>Керү</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:submit-buttonsign-in" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Sign in</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Керү</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:submit-buttonsign-in" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Sign in</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Керү</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:button-textsign-in" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Sign in</seg>
@@ -12318,7 +12318,7 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>Керү</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:header-textsign-in" srclang="en-US">
+		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:submit-buttonsign-in" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Sign in</seg>
 			</tuv>
@@ -13646,7 +13646,7 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>Сезгә яңа коткару ачкычын ясату кирәк булачак.</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:content_blocking_disabled-" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_autocomplete_handle_content_description-" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>-</seg>
 			</tuv>
@@ -13654,7 +13654,7 @@ progress updates and newsletters about Common Voice</seg>
 				<seg>-</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_autocomplete_handle_content_description-" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:content_blocking_disabled-" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>-</seg>
 			</tuv>
@@ -14034,7 +14034,7 @@ Browse. Erase. Repeat.</seg>
 				<seg>Веб-шрифтларны блоклау</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:dialog_addtohomescreen_action_cancelcancel" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:action_cancelcancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -14050,7 +14050,7 @@ Browse. Erase. Repeat.</seg>
 				<seg>Баш тарту</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:action_cancelcancel" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:dialog_addtohomescreen_action_cancelcancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -14186,20 +14186,20 @@ Browse. Erase. Repeat.</seg>
 				<seg>Җитештерүче кораллары</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:dismiss_no_suggestions_prompt_buttondismiss" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Dismiss</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Яшерү</seg>
-			</tuv>
-		</tu>
 		<tu tuid="focus-for-android:app.po:content_description_dismiss_inputdismiss" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Dismiss</seg>
 			</tuv>
 			<tuv xml:lang="tt">
 				<seg>Ябу</seg>
+			</tuv>
+		</tu>
+		<tu tuid="focus-for-android:app.po:dismiss_no_suggestions_prompt_buttondismiss" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Dismiss</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Яшерү</seg>
 			</tuv>
 		</tu>
 		<tu tuid="focus-for-android:app.po:accessibility_dismiss_find_in_pagedismiss-find-in-page" srclang="en-US">
@@ -14306,22 +14306,6 @@ Browse. Erase. Repeat.</seg>
 				<seg>Бетерү һәм ачу</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:shortcut_erase_long_labelerase-browsing-history" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Erase browsing history</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Гизү тарихын бетерү</seg>
-			</tuv>
-		</tu>
-		<tu tuid="focus-for-android:app.po:tabs_tray_action_eraseerase-browsing-history" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Erase browsing history</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Гизү тарихын бетерү</seg>
-			</tuv>
-		</tu>
 		<tu tuid="focus-for-android:app.po:notification_erase_texterase-browsing-history" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Erase browsing history</seg>
@@ -14330,7 +14314,23 @@ Browse. Erase. Repeat.</seg>
 				<seg>Гизү тарихын бетерү</seg>
 			</tuv>
 		</tu>
+		<tu tuid="focus-for-android:app.po:shortcut_erase_long_labelerase-browsing-history" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Erase browsing history</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Гизү тарихын бетерү</seg>
+			</tuv>
+		</tu>
 		<tu tuid="focus-for-android:app.po:content_description_eraseerase-browsing-history" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Erase browsing history</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Гизү тарихын бетерү</seg>
+			</tuv>
+		</tu>
+		<tu tuid="focus-for-android:app.po:tabs_tray_action_eraseerase-browsing-history" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Erase browsing history</seg>
 			</tuv>
@@ -15036,14 +15036,6 @@ Browse. Erase. Repeat.</seg>
 				<seg>USB/Wi-Fi аркылы хаталарны ерактан төзәтү</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_search_removeremove" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Remove</seg>
-			</tuv>
-			<tuv xml:lang="tt">
-				<seg>Бетерү</seg>
-			</tuv>
-		</tu>
 		<tu tuid="focus-for-android:app.po:preference_autocomplete_menu_removeremove" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
@@ -15053,6 +15045,14 @@ Browse. Erase. Repeat.</seg>
 			</tuv>
 		</tu>
 		<tu tuid="focus-for-android:app.po:preference_autocomplete_action_remove_content_descriptionremove" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Remove</seg>
+			</tuv>
+			<tuv xml:lang="tt">
+				<seg>Бетерү</seg>
+			</tuv>
+		</tu>
+		<tu tuid="focus-for-android:app.po:preference_search_removeremove" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
 			</tuv>

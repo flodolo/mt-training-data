@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-02-19T16:16:16.518803">
+	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-03-01T00:23:51.335627">
 	</header>
 	<body>
 		<tu tuid="firefox:toolkit/chrome/global/intl.properties:pluralrule" srclang="en-US">
@@ -67,7 +67,7 @@
 				<seg>Պատճէնք</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox:toolkit/toolkit/updates/history.ftl:update-details" srclang="en-US">
+		<tu tuid="firefox:toolkit/toolkit/updates/elevation.ftl:elevation-details-link-label" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Details</seg>
 			</tuv>
@@ -75,7 +75,7 @@
 				<seg>Մանրամասունք</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox:toolkit/toolkit/updates/elevation.ftl:elevation-details-link-label" srclang="en-US">
+		<tu tuid="firefox:toolkit/toolkit/updates/history.ftl:update-details" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Details</seg>
 			</tuv>
@@ -115,7 +115,7 @@
 				<seg>Նիշն գտեալ չէ:</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox:browser/branding/official/brand.dtd:brandshortname" srclang="en-US">
+		<tu tuid="firefox:browser/branding/official/brand.dtd:brandshortername" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Firefox</seg>
 			</tuv>
@@ -123,7 +123,7 @@
 				<seg>Firefox</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox:browser/branding/official/brand.dtd:brandshortername" srclang="en-US">
+		<tu tuid="firefox:browser/branding/official/brand.ftl:-brand-shorter-name" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Firefox</seg>
 			</tuv>
@@ -139,7 +139,7 @@
 				<seg>Firefox</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox:browser/branding/official/brand.ftl:-brand-shorter-name" srclang="en-US">
+		<tu tuid="firefox:browser/branding/official/brand.dtd:brandshortname" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Firefox</seg>
 			</tuv>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-02-19T16:10:38.578492">
+	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-03-01T00:14:33.229305">
 	</header>
 	<body>
 		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:account-picture" srclang="en-US">
@@ -379,7 +379,7 @@
 				<seg>+ Ka punuw an URL axi tsab bijidh</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_autocomplete_title_addadd-custom-url" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:custom_autocomplete_quick_addadd-custom-url" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add custom URL</seg>
 			</tuv>
@@ -387,7 +387,7 @@
 				<seg>Ka punuw an URL axi tsab bijidh</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:custom_autocomplete_quick_addadd-custom-url" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_autocomplete_title_addadd-custom-url" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add custom URL</seg>
 			</tuv>
@@ -632,7 +632,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Ka k'ot'biy an ts'aj</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_autocomplete_subitem_customlistcustom-urls" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_category_autocomplete_custom_urlscustom-urls" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Custom URLs</seg>
 			</tuv>
@@ -640,7 +640,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Ka tsab bijiy an URLs</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_category_autocomplete_custom_urlscustom-urls" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_autocomplete_subitem_customlistcustom-urls" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Custom URLs</seg>
 			</tuv>
@@ -696,7 +696,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Eyendhanél abal an ts'ejkom</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:content_description_dismiss_inputdismiss" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:dismiss_no_suggestions_prompt_buttondismiss" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Dismiss</seg>
 			</tuv>
@@ -704,7 +704,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Yab ka t'aja' ti kwentaj</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:dismiss_no_suggestions_prompt_buttondismiss" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:content_description_dismiss_inputdismiss" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Dismiss</seg>
 			</tuv>
@@ -768,7 +768,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Punudh al an xeklek abal ka exláj jawa' a tsa'biyamal ani in tejwa'medhal ejtil an ni'omtaláb ka buk'uw</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_autocomplete_topsite_summaryenable-to-autocomplete-more-than-450-popular-urls-in-the-address-bar" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_autocomplete_user_list_summaryenable-to-autocomplete-more-than-450-popular-urls-in-the-address-bar" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Enable to autocomplete more than 450 popular URLs in the address bar.</seg>
 			</tuv>
@@ -776,7 +776,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>ka lek'wtsiy abal kin kwetém kidhbay 450 i URLs abal ebál, axi lej exladh, ti jolataláb ju'taj it alim.</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_autocomplete_user_list_summaryenable-to-autocomplete-more-than-450-popular-urls-in-the-address-bar" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_autocomplete_topsite_summaryenable-to-autocomplete-more-than-450-popular-urls-in-the-address-bar" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Enable to autocomplete more than 450 popular URLs in the address bar.</seg>
 			</tuv>
@@ -840,7 +840,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Ka pakuw ani ka japiy %1$s</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:tabs_tray_action_eraseerase-browsing-history" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:notification_erase_texterase-browsing-history" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Erase browsing history</seg>
 			</tuv>
@@ -856,7 +856,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Ka pakuw an dhuchlab xi in olnál jant'oj a aliyamal</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:notification_erase_texterase-browsing-history" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:content_description_eraseerase-browsing-history" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Erase browsing history</seg>
 			</tuv>
@@ -864,7 +864,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Ka pakuw an dhuchlab xi in olnál jant'oj a aliyamal</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:content_description_eraseerase-browsing-history" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:tabs_tray_action_eraseerase-browsing-history" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Erase browsing history</seg>
 			</tuv>
@@ -1050,7 +1050,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Ka exla' más</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:enable_search_suggestion_subtitle_learnmorelearn-more" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_mozilla_telemetry_summarylearn-more" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Learn more</seg>
 			</tuv>
@@ -1058,7 +1058,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Ka exla' más</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_mozilla_telemetry_summarylearn-more" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:enable_search_suggestion_subtitle_learnmorelearn-more" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Learn more</seg>
 			</tuv>
@@ -1170,7 +1170,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Xi tal</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:enable_search_suggestions_nono" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_privacy_should_block_cookies_no_optionno" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>No</seg>
 			</tuv>
@@ -1178,7 +1178,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Ibaj</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_privacy_should_block_cookies_no_optionno" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:enable_search_suggestions_nono" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>No</seg>
 			</tuv>
@@ -1250,7 +1250,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Ups</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:download_snackbar_openopen" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:notification_action_openopen" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open</seg>
 			</tuv>
@@ -1258,7 +1258,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Ka japiy</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:notification_action_openopen" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:download_snackbar_openopen" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open</seg>
 			</tuv>
@@ -1351,7 +1351,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>An xeklek u awil ka dhubath tejwa'mej, poj u awil yab ka tejwa'mej alwa'</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:gv_prompt_password_hintpassword" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:http_auth_dialog_passwordpassword" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Password</seg>
 			</tuv>
@@ -1359,7 +1359,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Tsinat japixtal</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:http_auth_dialog_passwordpassword" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:gv_prompt_password_hintpassword" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Password</seg>
 			</tuv>
@@ -1473,7 +1473,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>An kw'it'ixtaláb ma ti USB/Wi-Fi</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_autocomplete_menu_removeremove" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_exceptions_menu_removeremove" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
 			</tuv>
@@ -1481,7 +1481,7 @@ Kit almáts. Ka pakuw. Ka tsab t'aja'.</seg>
 				<seg>Ka pakuw</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_exceptions_menu_removeremove" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_autocomplete_menu_removeremove" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
 			</tuv>
@@ -2121,7 +2121,7 @@ be temporary, and you can try again later.&lt;/li&gt;
 				<seg>Ka eyendha' in t'iplabil a ch'uchub abal ka japiy a eyextal</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:http_auth_dialog_usernameusername" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:gv_prompt_username_hintusername" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Username</seg>
 			</tuv>
@@ -2129,7 +2129,7 @@ be temporary, and you can try again later.&lt;/li&gt;
 				<seg>In bij an eyendhom</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:gv_prompt_username_hintusername" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:http_auth_dialog_usernameusername" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Username</seg>
 			</tuv>

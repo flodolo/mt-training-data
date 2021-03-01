@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-02-19T16:14:13.036639">
+	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-03-01T00:20:43.412854">
 	</header>
 	<body>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_rating_content_description" srclang="en-US">
@@ -43,7 +43,7 @@
 				<seg>%2$d ᱠᱷᱚᱱ %1$d</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:history_multi_select_title" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_multi_select_title" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>%1$d selected</seg>
 			</tuv>
@@ -51,7 +51,7 @@
 				<seg>%1$d ᱵᱟᱪᱷᱟᱣᱮᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmarks_multi_select_title" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:history_multi_select_title" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>%1$d selected</seg>
 			</tuv>
@@ -67,7 +67,7 @@
 				<seg>%1$d ᱵᱟᱪᱷᱟᱣᱮᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_multi_select_title" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmarks_multi_select_title" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>%1$d selected</seg>
 			</tuv>
@@ -484,7 +484,7 @@
 				<seg>ᱯᱚᱴᱚᱢ ᱥᱮᱞᱮᱫᱽ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_add_new_collection" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:create_collection_add_new_collection" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add new collection</seg>
 			</tuv>
@@ -492,7 +492,7 @@
 				<seg>ᱱᱟᱶᱟ ᱛᱩᱢᱟᱹᱞ ᱥᱮᱞᱮᱫᱽ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:create_collection_add_new_collection" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_add_new_collection" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add new collection</seg>
 			</tuv>
@@ -508,14 +508,6 @@
 				<seg>ᱥᱮᱞᱮᱫᱽ ᱮᱦᱚᱵᱽ ᱛᱩᱢᱟᱹᱞ ᱵᱚᱫᱚᱞᱮᱱᱟ ᱾ ᱵᱚᱫᱚᱞ ᱠᱚ ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ ᱮᱯᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱚᱸᱫᱚᱜ ᱠᱟᱱᱟ…</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_addons" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Add-ons</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱮᱰ-ᱟᱸᱱᱥ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/menu/src/main/res/values/strings.xml:mozac_browser_menu_addons" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add-ons</seg>
@@ -524,7 +516,7 @@
 				<seg>ᱥᱮᱞᱮᱫᱽ ᱮᱦᱚᱵᱽ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_add_ons" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_addons" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add-ons</seg>
 			</tuv>
@@ -533,6 +525,14 @@
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_addons" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Add-ons</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱮᱰ-ᱟᱸᱱᱥ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_add_ons" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add-ons</seg>
 			</tuv>
@@ -636,20 +636,20 @@
 				<seg>ᱥᱚᱢᱯᱚᱨᱠ ᱨᱮ ᱥᱮᱞᱮᱫᱽ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_add_to_homescreen" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Add to Home screen</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱚᱲᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱥᱮᱞᱮᱫᱽ ᱢᱮ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:add_to_homescreen_title" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add to Home screen</seg>
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱚᱲᱟᱜ ᱤᱥᱠᱨᱤᱱ ᱨᱮ ᱥᱮᱞᱮᱫᱽ ᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_add_to_homescreen" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Add to Home screen</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱚᱲᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱥᱮᱞᱮᱫᱽ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_add_to_top_sites" srclang="en-US">
@@ -732,14 +732,6 @@
 				<seg>ᱠᱷᱚᱛᱚ ᱠᱩᱩᱠᱤ ᱠᱚ (ᱱᱚᱶᱟ ᱫᱚ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱠᱚ ᱨᱟᱹᱯᱩᱫᱟᱭ)</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/sitepermissions/src/main/res/values/strings.xml:mozac_feature_sitepermissions_allow" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Allow</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱦᱮᱥᱟᱹᱨᱤᱭᱟᱹ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:search_suggestions_onboarding_allow_button" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Allow</seg>
@@ -748,7 +740,7 @@
 				<seg>ᱦᱮᱥᱟᱨᱤᱭᱟᱹ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompts_allow" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_updater_notification_allow_button" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Allow</seg>
 			</tuv>
@@ -756,7 +748,15 @@
 				<seg>ᱦᱮᱥᱟᱨᱤᱭᱟᱹ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_updater_notification_allow_button" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/sitepermissions/src/main/res/values/strings.xml:mozac_feature_sitepermissions_allow" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Allow</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱦᱮᱥᱟᱹᱨᱤᱭᱟᱹ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompts_allow" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Allow</seg>
 			</tuv>
@@ -1212,7 +1212,7 @@
 				<seg>ᱠᱚᱱᱴᱮᱸᱱᱴ ᱟᱨ ᱥᱠᱨᱭᱤᱯᱴ ᱠᱚ ᱟᱴᱠᱟᱣ ᱢᱮ ᱡᱟ ᱟᱢ ᱯᱟᱸᱡᱟ ᱢᱮᱭᱟᱹ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:enhanced_tracking_protection_blocked" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preference_option_phone_feature_blocked" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Blocked</seg>
 			</tuv>
@@ -1220,7 +1220,7 @@
 				<seg>ᱟᱠᱚᱴ ᱠᱟᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preference_option_phone_feature_blocked" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:enhanced_tracking_protection_blocked" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Blocked</seg>
 			</tuv>
@@ -1244,14 +1244,6 @@
 				<seg>ᱮᱰ ᱱᱮᱴᱣᱳᱨᱠ ᱠᱚ ᱟᱨ ᱮᱱᱟᱞᱭᱴᱤᱠ ᱠᱚᱢᱯᱟᱱᱤ ᱠᱚ ᱮᱢᱟᱱ ᱠᱩᱻᱠᱤᱡ ᱠᱚ, ᱚᱠᱟ ᱫᱚ ᱟᱭᱢᱟ ᱵᱨᱟᱩᱡᱤᱝ ᱰᱟᱴᱟ ᱠᱚ ᱠᱚᱢᱯᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫᱽ ᱵᱮᱵᱷᱟᱨᱚᱜᱼᱟ ᱚᱱᱟ ᱠᱚ ᱵᱞᱚᱠ ᱟᱭ ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:onboarding_tracking_protection_standard_button_description_2" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Blocks fewer trackers. Pages will load normally.</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱚ ᱵᱞᱚᱠ ᱠᱚᱣᱟᱭ ᱾ ᱥᱟᱦᱴᱟ ᱫᱚ ᱢᱟᱲᱟᱝ ᱞᱮᱠᱷᱟ ᱜᱮ ᱞᱟᱫᱮᱜᱼᱟ ᱾</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preference_enhanced_tracking_protection_standard_description_3" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Blocks fewer trackers. Pages will load normally.</seg>
@@ -1260,12 +1252,12 @@
 				<seg>ᱠᱚᱢ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱚ ᱵᱚᱸᱫᱚᱭᱮᱟ ᱾ ᱥᱟᱦᱴᱟ ᱢᱟᱲᱟᱝ ᱞᱮᱠᱷᱟ ᱞᱟᱫᱮᱜᱼᱟ ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:onboarding_tracking_protection_strict_button_description_2" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:onboarding_tracking_protection_standard_button_description_2" srclang="en-US">
 			<tuv xml:lang="en-US">
-				<seg>Blocks more trackers, ads, and popups. Pages load faster, but some functionality might not work.</seg>
+				<seg>Blocks fewer trackers. Pages will load normally.</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱡᱟᱹᱥᱛᱤ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ, ᱰᱷᱟᱣᱨᱟ ᱟᱨ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱠᱚ ᱟᱴᱠᱟᱣ ᱟᱭ , ᱥᱟᱠᱟᱢ ᱞᱚᱜᱚᱱ ᱞᱚᱰᱚᱜᱼᱟ ᱦᱮᱞᱮ ᱠᱤᱪᱷᱤ ᱡᱤᱱᱤᱥ ᱴᱷᱤᱠ ᱥᱮ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱟᱭ ᱾</seg>
+				<seg>ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱚ ᱵᱞᱚᱠ ᱠᱚᱣᱟᱭ ᱾ ᱥᱟᱦᱴᱟ ᱫᱚ ᱢᱟᱲᱟᱝ ᱞᱮᱠᱷᱟ ᱜᱮ ᱞᱟᱫᱮᱜᱼᱟ ᱾</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preference_enhanced_tracking_protection_strict_description_2" srclang="en-US">
@@ -1276,12 +1268,12 @@
 				<seg>ᱡᱟᱹᱥᱛᱤ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ, ᱰᱷᱟᱣᱨᱟ ᱟᱨ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱠᱚ ᱟᱴᱠᱟᱣ ᱟᱭ , ᱥᱟᱠᱟᱢ ᱞᱚᱜᱚᱱ ᱞᱚᱰᱚᱜᱼᱟ ᱦᱮᱞᱮ ᱠᱤᱪᱷᱤ ᱡᱤᱱᱤᱥ ᱴᱷᱤᱠ ᱥᱮ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱟᱭ ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_multiselect_menu_item_bookmark" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:onboarding_tracking_protection_strict_button_description_2" srclang="en-US">
 			<tuv xml:lang="en-US">
-				<seg>Bookmark</seg>
+				<seg>Blocks more trackers, ads, and popups. Pages load faster, but some functionality might not work.</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱵᱩᱻᱠᱢᱟᱨᱠ</seg>
+				<seg>ᱡᱟᱹᱥᱛᱤ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ, ᱰᱷᱟᱣᱨᱟ ᱟᱨ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱠᱚ ᱟᱴᱠᱟᱣ ᱟᱭ , ᱥᱟᱠᱟᱢ ᱞᱚᱜᱚᱱ ᱞᱚᱰᱚᱜᱼᱟ ᱦᱮᱞᱮ ᱠᱤᱪᱷᱤ ᱡᱤᱱᱤᱥ ᱴᱷᱤᱠ ᱥᱮ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱟᱭ ᱾</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_bookmark" srclang="en-US">
@@ -1290,6 +1282,14 @@
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱵᱩᱠᱢᱟᱨᱠ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_multiselect_menu_item_bookmark" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Bookmark</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱩᱻᱠᱢᱟᱨᱠ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_created_snackbar" srclang="en-US">
@@ -1460,7 +1460,7 @@
 				<seg>ᱠᱮᱢᱨᱟ ᱪᱟᱹᱞᱩ ᱢᱮᱱᱟᱜ-ᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:delete_browsing_data_prompt_cancel" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:top_sites_rename_dialog_cancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -1468,71 +1468,7 @@
 				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_collection_dialog_negative" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:pair_cancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:sign_out_cancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:add_to_homescreen_cancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_permissions_dialog_cancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompts_cancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/downloads/src/main/res/values/strings.xml:mozac_feature_downloads_button_cancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/downloads/src/main/res/values/strings.xml:mozac_feature_downloads_dialog_cancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/app-links/src/main/res/values/strings.xml:mozac_feature_applinks_confirm_dialog_deny" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:customize_addon_collection_cancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -1556,7 +1492,7 @@
 				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:top_sites_rename_dialog_cancel" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/downloads/src/main/res/values/strings.xml:mozac_feature_downloads_button_cancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -1564,7 +1500,71 @@
 				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:customize_addon_collection_cancel" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompts_cancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/app-links/src/main/res/values/strings.xml:mozac_feature_applinks_confirm_dialog_deny" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_permissions_dialog_cancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:pair_cancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_collection_dialog_negative" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:delete_browsing_data_prompt_cancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:sign_out_cancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/downloads/src/main/res/values/strings.xml:mozac_feature_downloads_dialog_cancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:add_to_homescreen_cancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -1660,7 +1660,7 @@
 				<seg>ᱯᱷᱟᱨᱪᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/toolbar/src/main/res/values/strings.xml:mozac_clear_button_description" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:history_clear_dialog" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Clear</seg>
 			</tuv>
@@ -1668,7 +1668,7 @@
 				<seg>ᱯᱷᱟᱨᱪᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:history_clear_dialog" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/toolbar/src/main/res/values/strings.xml:mozac_clear_button_description" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Clear</seg>
 			</tuv>
@@ -1740,6 +1740,14 @@
 				<seg>ᱟᱨᱦᱚᱸ ᱵᱤᱵᱨᱚᱬ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱰᱮ ᱚᱛᱟᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_multiselect_menu_item_close" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Close</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱚᱸᱫᱽ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:onboarding_close" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close</seg>
@@ -1748,15 +1756,7 @@
 				<seg>ᱵᱚᱸᱫᱚᱭ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:create_collection_close" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Close</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱚᱸᱫᱚᱭ ᱢᱮ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/downloads/src/main/res/values/strings.xml:mozac_feature_downloads_button_close" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:content_description_close_button" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close</seg>
 			</tuv>
@@ -1772,7 +1772,7 @@
 				<seg>ᱵᱚᱸᱫᱚᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:content_description_close_button" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/downloads/src/main/res/values/strings.xml:mozac_feature_downloads_button_close" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close</seg>
 			</tuv>
@@ -1780,12 +1780,12 @@
 				<seg>ᱵᱚᱸᱫᱚᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_multiselect_menu_item_close" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:create_collection_close" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱵᱚᱸᱫᱽ</seg>
+				<seg>ᱵᱚᱸᱫᱚᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:close_tabs_after_one_day_summary" srclang="en-US">
@@ -1812,7 +1812,7 @@
 				<seg>ᱢᱤᱫᱽ ᱦᱟᱴ ᱯᱚᱨᱮ ᱵᱚᱸᱫ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tabs_menu_close_all_tabs" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_menu_item_close" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close all tabs</seg>
 			</tuv>
@@ -1820,7 +1820,7 @@
 				<seg>ᱡᱷᱚᱛᱚ ᱴᱮᱵ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_menu_item_close" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tabs_menu_close_all_tabs" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close all tabs</seg>
 			</tuv>
@@ -1853,14 +1853,6 @@
 				<seg>ᱨᱤᱰᱚᱨ ᱵᱷᱭᱩ ᱵᱚᱸᱫᱚᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/ui/tabcounter/src/main/res/values/strings.xml:mozac_close_tab" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Close tab</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱴᱮᱵ ᱵᱚᱸᱫᱽᱚᱭ ᱢᱮ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_crash_close" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close tab</seg>
@@ -1875,6 +1867,14 @@
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱴᱮᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/ui/tabcounter/src/main/res/values/strings.xml:mozac_close_tab" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Close tab</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱴᱮᱵ ᱵᱚᱸᱫᱽᱚᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_close_tabs" srclang="en-US">
@@ -2095,6 +2095,14 @@
 				<seg>ᱵᱟᱝ ᱦᱤᱨᱤᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ ᱠᱷᱚᱱ ᱠᱩᱩᱠᱤ ᱠᱚ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:history_menu_copy_button" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Copy</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱱᱚᱠᱚᱞ ᱢᱮ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_menu_copy_button" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Copy</seg>
@@ -2104,14 +2112,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_toolbar_long_press_popup_copy" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Copy</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱱᱚᱠᱚᱞ ᱢᱮ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:history_menu_copy_button" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Copy</seg>
 			</tuv>
@@ -2183,7 +2183,7 @@
 				<seg>ᱨᱮᱫ ᱵᱟᱝ ᱠᱷᱩᱞᱟᱹ ᱫᱟᱲᱮᱞᱟᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:about_crashes" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/lib/crash/src/main/res/values/strings.xml:mozac_lib_crash_channel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Crashes</seg>
 			</tuv>
@@ -2191,7 +2191,7 @@
 				<seg>ᱨᱟᱹᱯᱩᱫ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/lib/crash/src/main/res/values/strings.xml:mozac_lib_crash_channel" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:about_crashes" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Crashes</seg>
 			</tuv>
@@ -2255,7 +2255,7 @@
 				<seg>ᱠᱨᱚᱥᱼᱥᱟᱭᱤᱴ ᱜᱷᱮᱨ ᱮᱥᱮᱫ ᱠᱩᱠᱤ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preference_enhanced_tracking_protection_custom_cryptominers" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:etp_cryptominers_title" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cryptominers</seg>
 			</tuv>
@@ -2263,7 +2263,7 @@
 				<seg>ᱠᱨᱭᱯᱴᱚᱢᱟᱭᱱᱟᱹᱨ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:etp_cryptominers_title" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preference_enhanced_tracking_protection_custom_cryptominers" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cryptominers</seg>
 			</tuv>
@@ -2423,15 +2423,7 @@
 				<seg>ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱱᱡᱤᱱ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_menu_delete_button" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Delete</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱢᱮᱴᱟᱣ ᱢᱮ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:delete_browsing_data_prompt_allow" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:dialog_delete_positive" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Delete</seg>
 			</tuv>
@@ -2463,7 +2455,7 @@
 				<seg>ᱢᱮᱴᱟᱣ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:dialog_delete_positive" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:download_delete_item" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Delete</seg>
 			</tuv>
@@ -2471,7 +2463,15 @@
 				<seg>ᱢᱮᱴᱟᱣ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:download_delete_item" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_menu_delete_button" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Delete</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱢᱮᱴᱟᱣ ᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:delete_browsing_data_prompt_allow" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Delete</seg>
 			</tuv>
@@ -2559,6 +2559,14 @@
 				<seg>ᱛᱩᱢᱟᱹᱞ ᱢᱮᱴᱟᱣ ᱢᱮ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_deletion_snackbar_message" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Deleted %1$s</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>%1$s ᱢᱮᱴᱟᱣᱮᱱᱟ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:history_delete_single_item_snackbar" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Deleted %1$s</seg>
@@ -2568,14 +2576,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_delete_folder_snackbar" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Deleted %1$s</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>%1$s ᱢᱮᱴᱟᱣᱮᱱᱟ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_deletion_snackbar_message" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Deleted %1$s</seg>
 			</tuv>
@@ -2775,12 +2775,12 @@
 				<seg>ᱡᱚᱱᱚᱲᱟᱣ ᱚᱪᱚᱜ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_grid_view_banner_negative_button_text" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_close_tabs_banner_negative_button_text" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Dismiss</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱵᱚᱸᱫᱽ</seg>
+				<seg>ᱵᱟᱹᱰ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:camera_permissions_needed_negative_button_text" srclang="en-US">
@@ -2799,12 +2799,12 @@
 				<seg>ᱵᱟᱹᱰ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_close_tabs_banner_negative_button_text" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_grid_view_banner_negative_button_text" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Dismiss</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱵᱟᱹᱰ</seg>
+				<seg>ᱵᱚᱸᱫᱽ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/findinpage/src/main/res/values/strings.xml:mozac_feature_findindpage_dismiss" srclang="en-US">
@@ -2839,20 +2839,20 @@
 				<seg>ᱟᱞᱚ ᱢᱟᱸᱡᱩᱨᱮᱭᱟᱢ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:logins_doorhanger_save_dont_save" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Don’t save</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱟᱞᱚᱢ ᱥᱟᱸᱪᱟᱣ-ᱟ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompt_dont_save" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Don’t save</seg>
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱟᱞᱚᱢ ᱥᱟᱸᱪᱟᱣᱜ-ᱟ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:logins_doorhanger_save_dont_save" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Don’t save</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱟᱞᱚᱢ ᱥᱟᱸᱪᱟᱣ-ᱟ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompt_dont_update" srclang="en-US">
@@ -2999,6 +2999,14 @@
 				<seg>%d ᱴᱮᱵ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_counter_content_description_multi_tab" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>%d tabs</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>%d ᱴᱮᱵ ᱠᱚ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:recently_closed_tabs" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>%d tabs</seg>
@@ -3008,14 +3016,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_delete_browsing_data_tabs_subtitle" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>%d tabs</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>%d ᱴᱮᱵ ᱠᱚ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_counter_content_description_multi_tab" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>%d tabs</seg>
 			</tuv>
@@ -3047,7 +3047,7 @@
 				<seg>ᱥᱟᱯᱲᱟᱣ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:login_menu_edit_button" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_menu_edit_button" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Edit</seg>
 			</tuv>
@@ -3055,7 +3055,7 @@
 				<seg>ᱥᱟᱯᱲᱟᱣ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_menu_edit_button" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:login_menu_edit_button" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Edit</seg>
 			</tuv>
@@ -3079,14 +3079,6 @@
 				<seg>ᱥᱟᱯᱲᱣ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:edit_bookmark_fragment_title" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Edit bookmark</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱣ ᱢᱮ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_edit" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Edit bookmark</seg>
@@ -3101,6 +3093,14 @@
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:edit_bookmark_fragment_title" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Edit bookmark</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱣ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:edit_bookmark_folder_fragment_title" srclang="en-US">
@@ -3239,7 +3239,7 @@
 				<seg>ᱡᱟᱷᱟᱸ ᱥᱚᱢᱚᱭ ᱨᱮᱜᱮ ᱥᱤᱸᱞᱰ ᱵᱮᱸᱜᱚᱱᱤ ᱛᱟᱦᱮᱸᱱᱟ, %s ᱫᱚ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱚ ᱥᱟᱭᱤᱴ ᱠᱚᱨᱮ ᱵᱞᱚᱠ ᱠᱚᱣᱟᱭ ᱾ ᱡᱟᱹᱥᱛᱤ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱴᱤᱯᱟᱹᱣ ᱯᱮ ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preference_exceptions" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_passwords_exceptions" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Exceptions</seg>
 			</tuv>
@@ -3255,7 +3255,7 @@
 				<seg>ᱪᱷᱟᱰᱟ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_passwords_exceptions" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preference_exceptions" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Exceptions</seg>
 			</tuv>
@@ -3739,20 +3739,20 @@
 				<seg>ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:open_in_app_cfr_positive_button_text" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Go to settings</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_grid_view_banner_positive_button_text" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Go to settings</seg>
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱥᱟᱡᱟᱣ ᱛᱮ ᱪᱟᱞᱟᱜᱽ ᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:open_in_app_cfr_positive_button_text" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Go to settings</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:camera_permissions_needed_positive_button_text" srclang="en-US">
@@ -3835,6 +3835,14 @@
 				<seg>ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱩᱠᱩ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/menu2/src/main/res/values/strings.xml:mozac_browser_menu2_highlighted" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Highlighted</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱩᱪᱷᱟᱹᱱᱟᱜ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/menu/src/main/res/values/strings.xml:mozac_browser_menu_highlighted" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Highlighted</seg>
@@ -3843,12 +3851,12 @@
 				<seg>ᱩᱪᱷᱟᱹᱱᱟᱜ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/menu2/src/main/res/values/strings.xml:mozac_browser_menu2_highlighted" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:library_history" srclang="en-US">
 			<tuv xml:lang="en-US">
-				<seg>Highlighted</seg>
+				<seg>History</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱩᱪᱷᱟᱹᱱᱟᱜ</seg>
+				<seg>ᱦᱤᱛᱟᱹᱞ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_sync_history" srclang="en-US">
@@ -3860,14 +3868,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_delete_browsing_data_browsing_history_title" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>History</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱦᱤᱛᱟᱹᱞ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:library_history" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>History</seg>
 			</tuv>
@@ -4143,6 +4143,14 @@
 				<seg>ᱴᱮᱵ ᱠᱚ ᱮᱢᱟᱱ ᱵᱷᱮᱡᱟ ᱵᱟᱵᱚᱛ ᱵᱟᱰᱟᱭ ᱢᱮ…</seg>
 			</tuv>
 		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:onboarding_manual_sign_in_learn_more" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Learn more</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:search_suggestions_onboarding_learn_more_link" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Learn more</seg>
@@ -4167,7 +4175,7 @@
 				<seg>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:onboarding_manual_sign_in_learn_more" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_unsupported_learn_more" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Learn more</seg>
 			</tuv>
@@ -4176,14 +4184,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preference_enhanced_tracking_protection_explanation_learn_more" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Learn more</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_unsupported_learn_more" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Learn more</seg>
 			</tuv>
@@ -4255,7 +4255,7 @@
 				<seg>ᱞᱟᱭᱥᱮᱸᱱᱥ ᱨᱮᱭᱟᱜ ᱠᱷᱚᱵᱚᱨ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/readerview/src/main/res/values/strings.xml:mozac_feature_readerview_light" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preference_light_theme" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Light</seg>
 			</tuv>
@@ -4263,7 +4263,7 @@
 				<seg>ᱢᱟᱨᱥᱟᱞ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preference_light_theme" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/readerview/src/main/res/values/strings.xml:mozac_feature_readerview_light" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Light</seg>
 			</tuv>
@@ -4439,7 +4439,7 @@
 				<seg>ᱢᱤᱰᱤᱭᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/menu2/src/main/res/values/strings.xml:mozac_browser_menu2_button" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/toolbar/src/main/res/values/strings.xml:mozac_browser_toolbar_menu_button" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Menu</seg>
 			</tuv>
@@ -4447,7 +4447,7 @@
 				<seg>ᱢᱮᱱᱩ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/toolbar/src/main/res/values/strings.xml:mozac_browser_toolbar_menu_button" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/menu2/src/main/res/values/strings.xml:mozac_browser_menu2_button" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Menu</seg>
 			</tuv>
@@ -4591,20 +4591,20 @@
 				<seg>ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱝ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_passwords_save_logins_never_save" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Never save</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱥᱟᱸᱪᱟᱣ ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱝ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompt_never_save" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Never save</seg>
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱝ ᱥᱟᱸᱪᱟᱣᱜ-ᱟ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_passwords_save_logins_never_save" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Never save</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱥᱟᱸᱪᱟᱣ ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱝ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_supported_checker_notification_title" srclang="en-US">
@@ -4647,14 +4647,6 @@
 				<seg>ᱱᱟᱶᱟ ᱱᱤᱡᱚᱨᱟᱜ ᱴᱮᱵ ᱠᱷᱩᱞᱟᱹᱭ ᱮᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_menu_open_new_tab" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>New tab</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:home_screen_shortcut_open_new_tab_2" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>New tab</seg>
@@ -4663,7 +4655,7 @@
 				<seg>ᱱᱟᱶᱟ ᱴᱮᱵᱽ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_new_tab" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/ui/tabcounter/src/main/res/values/strings.xml:mozac_browser_menu_new_tab" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>New tab</seg>
 			</tuv>
@@ -4671,7 +4663,15 @@
 				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/ui/tabcounter/src/main/res/values/strings.xml:mozac_browser_menu_new_tab" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_menu_open_new_tab" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>New tab</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_new_tab" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>New tab</seg>
 			</tuv>
@@ -4887,6 +4887,14 @@
 				<seg>ᱟᱥᱤ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tracking_protection_off" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Off</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱚᱸᱫᱚ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:delete_browsing_data_quit_off" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Off</seg>
@@ -4896,14 +4904,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_passwords_sync_logins_off" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Off</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱚᱸᱫᱚ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tracking_protection_off" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Off</seg>
 			</tuv>
@@ -4943,7 +4943,7 @@
 				<seg>ᱴᱷᱤᱠ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:top_sites_rename_dialog_ok" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:customize_addon_collection_ok" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>OK</seg>
 			</tuv>
@@ -4951,7 +4951,7 @@
 				<seg>ᱴᱷᱤᱠ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:customize_addon_collection_ok" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:top_sites_rename_dialog_ok" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>OK</seg>
 			</tuv>
@@ -4983,14 +4983,6 @@
 				<seg>ᱢᱟᱨᱮᱭᱟᱜ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_settings_on" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>On</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱪᱚᱞᱩ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tracking_protection_on" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>On</seg>
@@ -5008,6 +5000,14 @@
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:delete_browsing_data_quit_on" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>On</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱪᱚᱞᱩ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_settings_on" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>On</seg>
 			</tuv>
@@ -5047,6 +5047,14 @@
 				<seg>ᱡᱷᱤᱡ ᱢᱮ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/downloads/src/main/res/values/strings.xml:mozac_feature_downloads_button_open" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Open</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱡᱷᱚᱡ ᱢᱮ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:download_menu_open" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open</seg>
@@ -5061,14 +5069,6 @@
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱡᱷᱤᱡ ᱢᱮ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/downloads/src/main/res/values/strings.xml:mozac_feature_downloads_button_open" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Open</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱡᱷᱚᱡ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:search_widget_content_description" srclang="en-US">
@@ -5255,12 +5255,12 @@
 				<seg>ᱢᱩᱞ ᱠᱷᱩᱞᱟᱹ ᱞᱟᱭᱵᱨᱮᱨᱤ ᱟᱞᱮ ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:collection_open_tabs" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_delete_browsing_data_tabs_title_2" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open tabs</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴᱮᱵ ᱠᱚ</seg>
+				<seg>ᱡᱷᱤᱡ ᱴᱮᱵ ᱠᱚ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_sync_tabs_2" srclang="en-US">
@@ -5271,7 +5271,7 @@
 				<seg>ᱡᱷᱤᱡ ᱴᱮᱵ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_header_label" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:collection_open_tabs" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open tabs</seg>
 			</tuv>
@@ -5279,20 +5279,12 @@
 				<seg>ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴᱮᱵ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_delete_browsing_data_tabs_title_2" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_header_label" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open tabs</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱡᱷᱤᱡ ᱴᱮᱵ ᱠᱚ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:firefox-ios.xliff:sharedenlprojlocalizablestringstabtraytitle" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Open Tabs</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱴᱮᱵ ᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ</seg>
+				<seg>ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴᱮᱵ ᱠᱚ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_tabs_button" srclang="en-US">
@@ -5309,6 +5301,14 @@
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴᱮᱵ ᱠᱚ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:firefox-ios.xliff:sharedenlprojlocalizablestringstabtraytitle" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Open Tabs</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱴᱮᱵ ᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:open_tabs_menu" srclang="en-US">
@@ -5387,7 +5387,7 @@
 				<seg>ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮᱭᱟᱜ ᱫᱚᱨᱠᱟᱨ ᱢᱮᱱᱟᱜ-ᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_passwords" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:migration_text_passwords" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Passwords</seg>
 			</tuv>
@@ -5395,7 +5395,7 @@
 				<seg>ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:migration_text_passwords" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_passwords" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Passwords</seg>
 			</tuv>
@@ -5563,7 +5563,7 @@
 				<seg>ᱯᱨᱭᱣᱮᱥᱭ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱡᱟᱣ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ, ᱢᱟᱞᱣᱮᱨ ᱟᱨ ᱠᱚᱢᱯᱟᱭ ᱠᱚ ᱮᱢᱟᱱ ᱵᱞᱚᱠ ᱠᱚᱣᱟ ᱠᱚ ᱚᱠᱚᱭ ᱫᱚ ᱟᱢ ᱯᱟᱧᱡᱟ ᱠᱟᱫ ᱢᱮᱭᱟ ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:about_privacy_notice" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_privacy_link" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Privacy notice</seg>
 			</tuv>
@@ -5571,7 +5571,7 @@
 				<seg>ᱱᱤᱥᱚᱱ ᱨᱮᱭᱟᱜ ᱱᱚᱴᱤᱥ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_privacy_link" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:about_privacy_notice" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Privacy notice</seg>
 			</tuv>
@@ -5887,24 +5887,6 @@
 				<seg>¶•&lt;p&gt;ᱡᱩᱲᱟᱹᱣ ᱱᱮᱜᱚᱥᱤᱭᱮᱴ ᱡᱚᱠᱷᱟᱜ ᱱᱮᱴᱣᱟᱨᱠ ᱞᱤᱸᱠ ᱠᱚᱴᱟᱣᱮᱱᱟ ᱾ ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱫᱚᱦᱲᱟ ᱨᱤᱠᱟᱹᱭ ᱢᱮ &lt;/p&gt;¶•&lt;ul&gt;•&lt;li&gt;ᱥᱟᱭᱤᱴ ᱵᱟᱝ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ ᱥᱮ ᱠᱟᱹᱢᱤ ᱨᱮ ᱛᱟᱦᱮᱱᱟ ᱾ ᱠᱤᱪᱷᱩ ᱜᱷᱟᱹᱲᱤᱡ ᱛᱟᱭᱚᱢ ᱨᱤᱠᱟᱹᱭ ᱢᱮ ᱾ &lt;/li&gt;¶•&lt;li&gt; ᱡᱩᱫᱤ ᱥᱟᱦᱴᱟ ᱵᱟᱝ ᱮᱢ ᱞᱟᱫᱮ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ, ᱟᱢᱟᱜ ᱰᱤᱵᱷᱟᱭᱥ ᱨᱮᱱᱟᱜ ᱰᱟᱴᱟ ᱥᱮ ᱣᱟᱭ-ᱯᱷᱟᱭ ᱡᱚᱲᱟᱣ ᱧᱮᱞ ᱞᱮᱜᱟᱭ ᱢᱮ ᱾ &lt;/li&gt;¶•&lt;/ul¶•</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/errorpages/src/main/res/values/strings.xml:mozac_browser_errorpages_corrupted_content_message" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>
-      &lt;p&gt;The page you are trying to view cannot be shown because an error in the data transmission was detected.&lt;/p&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Please contact the website owners to inform them of this problem.&lt;/li&gt;
-      &lt;/ul&gt;
-    </seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>
-      ¶•&lt;ul&gt;¶
-       • &lt;li&gt;ᱚᱠᱟ ᱥᱟᱦᱴᱟ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱚᱱᱟ ᱫᱚ ᱰᱟᱴᱟ ᱴᱨᱟᱱᱥᱢᱤᱥᱥᱚᱱ ᱨᱮ ᱵᱷᱩᱞ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱝ ᱫᱮᱠᱷᱟᱣᱞᱮᱱᱟ᱾&lt;/li&gt;
-        &lt;li&gt;ᱫᱚᱭᱟᱠᱟᱛᱮ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱢᱟᱞᱤᱠ ᱡᱩᱜᱟᱡᱩᱜ ᱮᱢ ᱟᱨ ᱦᱩᱲᱟᱹᱜ ᱵᱟᱵᱚᱫ ᱠᱷᱚᱵᱚᱨ ᱮᱢ ᱾&lt;/li&gt;¶•      
-      &lt;/ul&gt;•
-    </seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/errorpages/src/main/res/values/strings.xml:mozac_browser_errorpages_content_crashed_message" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>
@@ -5918,6 +5900,24 @@
 				<seg>
       ¶•&lt;ul&gt;¶
        • &lt;li&gt;ᱚᱠᱟ ᱥᱟᱦᱴᱟ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱚᱱᱟ ᱫᱚ ᱰᱟᱴᱟ ᱴᱨᱟᱱᱥᱢᱤᱥᱥᱚᱱ ᱨᱮ ᱵᱷᱩᱞ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱞᱮ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱞᱮᱢ ᱠᱟᱱᱟ ᱾&lt;/li&gt;
+        &lt;li&gt;ᱫᱚᱭᱟᱠᱟᱛᱮ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱢᱟᱞᱤᱠ ᱡᱩᱜᱟᱡᱩᱜ ᱮᱢ ᱟᱨ ᱦᱩᱲᱟᱹᱜ ᱵᱟᱵᱚᱫ ᱠᱷᱚᱵᱚᱨ ᱮᱢ ᱾&lt;/li&gt;¶•      
+      &lt;/ul&gt;•
+    </seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/errorpages/src/main/res/values/strings.xml:mozac_browser_errorpages_corrupted_content_message" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>
+      &lt;p&gt;The page you are trying to view cannot be shown because an error in the data transmission was detected.&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Please contact the website owners to inform them of this problem.&lt;/li&gt;
+      &lt;/ul&gt;
+    </seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>
+      ¶•&lt;ul&gt;¶
+       • &lt;li&gt;ᱚᱠᱟ ᱥᱟᱦᱴᱟ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱚᱱᱟ ᱫᱚ ᱰᱟᱴᱟ ᱴᱨᱟᱱᱥᱢᱤᱥᱥᱚᱱ ᱨᱮ ᱵᱷᱩᱞ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱝ ᱫᱮᱠᱷᱟᱣᱞᱮᱱᱟ᱾&lt;/li&gt;
         &lt;li&gt;ᱫᱚᱭᱟᱠᱟᱛᱮ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱢᱟᱞᱤᱠ ᱡᱩᱜᱟᱡᱩᱜ ᱮᱢ ᱟᱨ ᱦᱩᱲᱟᱹᱜ ᱵᱟᱵᱚᱫ ᱠᱷᱚᱵᱚᱨ ᱮᱢ ᱾&lt;/li&gt;¶•      
       &lt;/ul&gt;•
     </seg>
@@ -6177,14 +6177,6 @@
 				<seg>ᱧᱟᱢᱟᱠᱟᱱ ᱴᱮᱵ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_menu_recently_closed" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Recently closed tabs</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵ ᱠᱚ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:library_recently_closed_tabs" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Recently closed tabs</seg>
@@ -6193,12 +6185,12 @@
 				<seg>ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_passwords_saved_logins_recently_used" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_menu_recently_closed" srclang="en-US">
 			<tuv xml:lang="en-US">
-				<seg>Recently used</seg>
+				<seg>Recently closed tabs</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱱᱤᱛᱚᱜ ᱵᱮᱵᱷᱟᱨᱟᱜ</seg>
+				<seg>ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵ ᱠᱚ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:share_link_recent_apps_subheader" srclang="en-US">
@@ -6209,7 +6201,15 @@
 				<seg>ᱱᱤᱛᱚᱜ ᱵᱮᱵᱷᱟᱨᱟᱜ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:phone_feature_recommended" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_passwords_saved_logins_recently_used" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Recently used</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱱᱤᱛᱚᱜ ᱵᱮᱵᱷᱟᱨᱟᱜ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_recommended_section" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Recommended</seg>
 			</tuv>
@@ -6217,7 +6217,7 @@
 				<seg>ᱵᱟᱛᱟᱣᱟᱜ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_recommended_section" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:phone_feature_recommended" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Recommended</seg>
 			</tuv>
@@ -6265,20 +6265,20 @@
 				<seg>PIN ᱫᱩᱦᱲᱟᱹ ᱟᱫᱮᱨ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_refresh" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Refresh</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱨᱤᱯᱷᱨᱮᱥ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/pwa/src/main/res/values/strings.xml:mozac_feature_pwa_site_controls_refresh" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Refresh</seg>
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱱᱟᱶᱟ ᱟᱹᱨᱩ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_refresh" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Refresh</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱨᱤᱯᱷᱨᱮᱥ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompt_repost_message" srclang="en-US">
@@ -6313,6 +6313,14 @@
 				<seg>ᱥᱟᱸᱜᱤᱧ ᱫᱚᱥ ᱥᱟᱦᱟᱭ USB ᱥᱟᱶ ᱛᱮ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:remove_top_site" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Remove</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱚᱪᱚᱜ ᱢᱮ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:remove_home_collection_placeholder_content_description" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
@@ -6335,14 +6343,6 @@
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱚᱪᱚᱜ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:remove_top_site" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Remove</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱚᱪᱚᱜ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_sync_remove_account" srclang="en-US">
@@ -6497,15 +6497,7 @@
 				<seg>ᱥᱮᱱᱥ ᱥᱮᱨᱤᱯᱷ ᱪᱤᱠᱤ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:current_session_save" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Save</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱥᱟᱸᱪᱟᱣ ᱢᱮ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompt_save_confirmation" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:create_collection_save" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Save</seg>
 			</tuv>
@@ -6521,14 +6513,6 @@
 				<seg>ᱥᱟᱸᱪᱟᱣ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:logins_doorhanger_save_confirmation" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Save</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱥᱟᱸᱪᱟᱣ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:tab_tray_save_to_collection" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Save</seg>
@@ -6537,7 +6521,15 @@
 				<seg>ᱥᱟᱸᱪᱟᱣ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:create_collection_save" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:logins_doorhanger_save_confirmation" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Save</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱥᱟᱸᱪᱟᱣ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:current_session_save" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Save</seg>
 			</tuv>
@@ -6546,6 +6538,14 @@
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_menu_save_button" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Save</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱥᱟᱸᱪᱟᱣ ᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompt_save_confirmation" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Save</seg>
 			</tuv>
@@ -6641,7 +6641,7 @@
 				<seg>ᱛᱩᱢᱟᱹᱞ ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_save_to_collection_2" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:save_to_collection" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Save to collection</seg>
 			</tuv>
@@ -6649,7 +6649,7 @@
 				<seg>ᱛᱩᱢᱟᱹᱞ ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:save_to_collection" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_save_to_collection_2" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Save to collection</seg>
 			</tuv>
@@ -6705,22 +6705,6 @@
 				<seg>ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱩᱠᱩ ᱞᱟᱹᱜᱤᱛ ᱛᱮ ᱛᱚᱛᱨᱚᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:search_widget_text_short" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Search</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱥᱮᱸᱫᱽᱨᱟ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:library_search" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Search</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱥᱮᱸᱫᱽᱨᱟ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/contextmenu/src/main/res/values/strings.xml:mozac_selection_context_menu_search_2" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Search</seg>
@@ -6738,6 +6722,22 @@
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:a11y_search_icon_content_description" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Search</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱥᱮᱸᱫᱽᱨᱟ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:library_search" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Search</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱥᱮᱸᱫᱽᱨᱟ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:search_widget_text_short" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Search</seg>
 			</tuv>
@@ -6841,20 +6841,20 @@
 				<seg>ᱡᱟᱯᱛᱤ ᱡᱚᱱᱚᱲᱟᱣ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/errorpages/src/main/res/values/strings.xml:mozac_browser_errorpages_security_ssl_title" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Secure Connection Failed</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱡᱟᱯᱛᱤ ᱡᱚᱱᱚᱲᱟᱹᱣ ᱰᱤᱜᱟᱹᱣ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/errorpages/src/main/res/values/strings.xml:mozac_browser_errorpages_security_bad_cert_title" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Secure Connection Failed</seg>
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱡᱟᱯᱛᱤ ᱡᱚᱱᱚᱲᱟᱣ ᱦᱩᱲᱟᱹᱜ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/errorpages/src/main/res/values/strings.xml:mozac_browser_errorpages_security_ssl_title" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Secure Connection Failed</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱡᱟᱯᱛᱤ ᱡᱚᱱᱚᱲᱟᱹᱣ ᱰᱤᱜᱟᱹᱣ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:logins_warning_dialog_title" srclang="en-US">
@@ -7129,22 +7129,6 @@
 				<seg>ᱚᱠᱟ ᱠᱚ ᱫᱚ ᱢᱟᱲᱟᱝ ᱫᱤᱱ, ᱦᱟᱴ, ᱟᱨ ᱵᱟᱝ ᱢᱟᱦᱟ ᱠᱚᱨᱮ ᱵᱟᱝ ᱧᱮᱞ ᱟᱠᱟᱱᱟ ᱚᱱᱟ ᱠᱚ ᱫᱚ ᱠᱷᱭᱞᱟᱹ ᱴᱮᱵ ᱠᱚ ᱨᱮ ᱟᱡ ᱛᱮᱜᱮ ᱵᱚᱸᱫᱚᱜ ᱢᱟ ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:settings_title" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Settings</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱥᱟᱡᱟᱣ ᱠᱚ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_settings" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Settings</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱥᱟᱡᱟᱣ ᱠᱚ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:settings" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Settings</seg>
@@ -7153,7 +7137,23 @@
 				<seg>ᱥᱟᱡᱟᱣ ᱠᱚ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:settings_title" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Settings</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱥᱟᱡᱟᱣ ᱠᱚ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_settings" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Settings</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱥᱟᱡᱟᱣ ᱠᱚ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml:mozac_feature_addons_settings" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Settings</seg>
 			</tuv>
@@ -7177,12 +7177,36 @@
 				<seg>ᱱᱤᱛᱚᱜ ᱥᱟᱡᱟᱣ ᱢᱮ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/lib/crash/src/main/res/values/strings.xml:mozac_lib_crash_share" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Share</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱦᱟᱹᱴᱤᱧ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:share_header_2" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Share</seg>
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱦᱟᱹᱴᱤᱧ ᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:share_button_content_description" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Share</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱦᱟᱹᱴᱤᱧ ᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:current_session_share" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Share</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱦᱟᱹᱴᱤᱝ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:history_menu_share_button" srclang="en-US">
@@ -7201,14 +7225,6 @@
 				<seg>ᱦᱟᱹᱴᱤᱧ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:current_session_share" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Share</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱦᱟᱹᱴᱤᱝ ᱢᱮ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:browser_menu_share" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Share</seg>
@@ -7217,23 +7233,7 @@
 				<seg>ᱦᱟᱹᱴᱤᱧ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/lib/crash/src/main/res/values/strings.xml:mozac_lib_crash_share" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Share</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱦᱟᱹᱴᱤᱧ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_menu_share_button" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Share</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱦᱟᱹᱴᱤᱧ ᱢᱮ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:share_button_content_description" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Share</seg>
 			</tuv>
@@ -7345,7 +7345,7 @@
 				<seg>ᱫᱟᱨᱟᱭ ᱛᱮ ᱦᱟᱹᱴᱤᱧ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:menu_share_with" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/support/ktx/src/main/res/values/strings.xml:mozac_support_ktx_menu_share_with" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Share with…</seg>
 			</tuv>
@@ -7353,7 +7353,7 @@
 				<seg>ᱱᱚᱶᱟ ᱛᱮ ᱦᱟᱹᱴᱤᱧ ᱢᱮ...</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/support/ktx/src/main/res/values/strings.xml:mozac_support_ktx_menu_share_with" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:menu_share_with" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Share with…</seg>
 			</tuv>
@@ -7441,7 +7441,7 @@
 				<seg>ᱨᱚᱲ ᱥᱮᱸᱫᱽᱨᱟ ᱩᱫᱩᱜ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_sync_sign_in" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompt_sign_in" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Sign in</seg>
 			</tuv>
@@ -7449,7 +7449,7 @@
 				<seg>ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompt_sign_in" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_sync_sign_in" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Sign in</seg>
 			</tuv>
@@ -7513,20 +7513,20 @@
 				<seg>ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱛ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_passwords_sync_logins_sign_in" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Sign in to Sync</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱛ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:sync_sign_in" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Sign in to Sync</seg>
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱥᱭᱸᱠ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_passwords_sync_logins_sign_in" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Sign in to Sync</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱛ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:sign_in_with_camera" srclang="en-US">
@@ -7577,7 +7577,7 @@
 				<seg>ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱤᱛᱞᱟᱭ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_delete_browsing_data_site_permissions" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_site_permissions" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Site permissions</seg>
 			</tuv>
@@ -7585,7 +7585,7 @@
 				<seg>ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱪᱷᱟᱹᱲ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_site_permissions" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_delete_browsing_data_site_permissions" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Site permissions</seg>
 			</tuv>
@@ -8057,7 +8057,7 @@
 				<seg>ᱴᱮᱵ ᱧᱟᱢᱮᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_tabs" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/tabs/src/main/res/values/strings.xml:mozac_feature_tabs_toolbar_tabs_button" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Tabs</seg>
 			</tuv>
@@ -8065,7 +8065,7 @@
 				<seg>ᱴᱮᱵ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/tabs/src/main/res/values/strings.xml:mozac_feature_tabs_toolbar_tabs_button" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_tabs" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Tabs</seg>
 			</tuv>
@@ -8497,7 +8497,7 @@
 				<seg>%1$s ᱞᱟᱹᱜᱤᱫ ᱛᱚᱨᱡᱚᱢᱟ ᱥᱟᱶ ᱢᱩᱞ ᱯᱟᱹᱨᱥᱤ %2$s ᱵᱟᱭ ᱧᱟᱢ ᱞᱟᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/downloads/src/main/res/values/strings.xml:mozac_feature_downloads_button_try_again" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/errorpages/src/main/res/values/strings.xml:mozac_browser_errorpages_page_refresh" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Try Again</seg>
 			</tuv>
@@ -8505,7 +8505,7 @@
 				<seg>ᱫᱚᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/browser/errorpages/src/main/res/values/strings.xml:mozac_browser_errorpages_page_refresh" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/downloads/src/main/res/values/strings.xml:mozac_feature_downloads_button_try_again" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Try Again</seg>
 			</tuv>
@@ -8709,7 +8709,7 @@
 				<seg>ᱚᱱᱰᱩ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_undo_deletion" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:snackbar_deleted_undo" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>UNDO</seg>
 			</tuv>
@@ -8717,7 +8717,7 @@
 				<seg>ᱚᱱᱰᱩ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:snackbar_deleted_undo" srclang="en-US">
+		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:bookmark_undo_deletion" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>UNDO</seg>
 			</tuv>
@@ -8885,20 +8885,20 @@
 				<seg>ᱵᱟᱹᱫᱟᱹᱞ ᱛᱮ ᱮᱢᱮᱞ ᱵᱮᱵᱷᱟᱨ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompt_username_hint" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Username</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:preferences_passwords_saved_logins_username" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Username</seg>
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱵᱮᱵᱷᱟᱨᱤᱡᱟᱠ ᱭᱩᱛᱩᱢ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="android-l10n:mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml:mozac_feature_prompt_username_hint" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Username</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="android-l10n:mozilla-mobile/fenix/app/src/main/res/values/strings.xml:logins_username_copied" srclang="en-US">
@@ -9217,7 +9217,7 @@
 				<seg>+</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionssharetoinfoplistcfbundleshortversionstring" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>0.0.1</seg>
 			</tuv>
@@ -9233,7 +9233,7 @@
 				<seg>0.0.1</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionstodayinfoplistcfbundleshortversionstring" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionssharetoinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>0.0.1</seg>
 			</tuv>
@@ -9241,7 +9241,7 @@
 				<seg>0.0.1</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientinfoplistcfbundleshortversionstring" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionstodayinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>0.0.1</seg>
 			</tuv>
@@ -9265,14 +9265,6 @@
 				<seg>%1$@/%2$@</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:accountinfoplistcfbundleshortversionstring" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>18.0</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>18.0</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:clienttestsinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>18.0</seg>
@@ -9281,7 +9273,7 @@
 				<seg>18.0</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:synctestsinfoplistcfbundleshortversionstring" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:accountinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>18.0</seg>
 			</tuv>
@@ -9313,7 +9305,7 @@
 				<seg>18.0</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:accounttestsinfoplistcfbundleshortversionstring" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:storageperftestsinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>18.0</seg>
 			</tuv>
@@ -9329,7 +9321,7 @@
 				<seg>18.0</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:storagetestsinfoplistcfbundleshortversionstring" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:synctestsinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>18.0</seg>
 			</tuv>
@@ -9345,7 +9337,15 @@
 				<seg>18.0</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:storageperftestsinfoplistcfbundleshortversionstring" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:accounttestsinfoplistcfbundleshortversionstring" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>18.0</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>18.0</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:storagetestsinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>18.0</seg>
 			</tuv>
@@ -9473,7 +9473,7 @@
 				<seg>ᱴᱷᱤᱠᱟᱹᱱᱟ ᱟᱨ ᱥᱮᱸᱫᱽᱨᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsaddcustomengine" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsaddcustomenginetitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add Search Engine</seg>
 			</tuv>
@@ -9481,7 +9481,7 @@
 				<seg>ᱥᱮᱸᱫᱽᱨᱟ ᱤᱸᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsaddcustomenginetitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsaddcustomengine" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add Search Engine</seg>
 			</tuv>
@@ -9505,14 +9505,6 @@
 				<seg>ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱮᱞᱮᱫ ᱢᱮ ᱵᱚᱨᱟᱵᱚᱨ ᱟᱨ ᱱᱤᱛᱚᱜ-ᱟ ᱥᱟᱭᱤᱴ ᱧᱮᱞᱟᱠ ᱨᱮ.</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetquickviewgallerydescriptionv2" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Add shortcuts to your open tabs.</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱟᱢᱟᱜ ᱠᱷᱩᱞᱟᱹ ᱟᱠᱟᱱ ᱴᱮᱵ ᱠᱚ ᱨᱮᱭᱟᱜ ᱥᱚᱴᱠᱚᱴ ᱠᱚ ᱥᱮᱞᱮᱫ ᱢᱮ ᱾</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetquickviewlargegallerydescription" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add shortcuts to your open tabs.</seg>
@@ -9521,7 +9513,15 @@
 				<seg>ᱟᱢᱟᱜ ᱠᱷᱩᱞᱟᱹ ᱟᱠᱟᱱ ᱴᱮᱵ ᱠᱚ ᱨᱮᱭᱟᱜ ᱥᱚᱴᱠᱚᱴ ᱠᱚ ᱥᱮᱞᱮᱫ ᱢᱮ ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsadd-tab" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetquickviewgallerydescriptionv2" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Add shortcuts to your open tabs.</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱟᱢᱟᱜ ᱠᱷᱩᱞᱟᱹ ᱟᱠᱟᱱ ᱴᱮᱵ ᱠᱚ ᱨᱮᱭᱟᱜ ᱥᱚᱴᱠᱚᱴ ᱠᱚ ᱥᱮᱞᱮᱫ ᱢᱮ ᱾</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtrayaddtabbutton" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add Tab</seg>
 			</tuv>
@@ -9529,7 +9529,7 @@
 				<seg>ᱴᱮᱵ ᱥᱮᱞᱮᱫ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtrayaddtabbutton" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsadd-tab" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add Tab</seg>
 			</tuv>
@@ -9543,6 +9543,14 @@
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱵᱩᱠᱢᱟᱨᱠ ᱨᱮ ᱡᱚᱲᱹᱟᱣ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsshareextensionaddtoreadinglistactiontitle" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Add to Reading List</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱯᱟᱰᱦᱟᱣ ᱞᱤᱥᱴᱤ ᱨᱮ ᱥᱮᱞᱮᱫ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuaddtoreadinglisttitle" srclang="en-US">
@@ -9562,14 +9570,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsadd-to-reading-list" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Add to Reading List</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱯᱟᱰᱦᱟᱣ ᱞᱤᱥᱴᱤ ᱨᱮ ᱥᱮᱞᱮᱫ ᱢᱮ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsshareextensionaddtoreadinglistactiontitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Add to Reading List</seg>
 			</tuv>
@@ -9913,7 +9913,7 @@
 				<seg>ᱵᱩᱩᱠᱢᱟᱨᱠ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshomepanelcontextmenubookmark" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarkbookmarkdetailfieldsheaderbookmarktitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Bookmark</seg>
 			</tuv>
@@ -9921,7 +9921,7 @@
 				<seg>ᱵᱩᱠᱢᱟᱨᱠ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarkbookmarkdetailfieldsheaderbookmarktitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshomepanelcontextmenubookmark" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Bookmark</seg>
 			</tuv>
@@ -9977,6 +9977,14 @@
 				<seg>ᱵᱩᱩᱠᱢᱟᱨᱠ ᱠᱚ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopenbookmarksactionaccessibilitylabelv2" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Bookmarks</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱩᱠᱢᱟᱨᱠ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsnewtaboptionbookmarks" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Bookmarks</seg>
@@ -9986,14 +9994,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssyncstatebookmarktitle" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Bookmarks</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱩᱠᱢᱟᱨᱠ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopenbookmarksactionaccessibilitylabelv2" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Bookmarks</seg>
 			</tuv>
@@ -10025,7 +10025,7 @@
 				<seg>ᱟᱢ ᱡᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱸᱪᱟᱣᱟᱢ ᱚᱱᱟ ᱫᱚ ᱱᱚᱸᱲᱮ ᱩᱫᱩᱜᱚᱣᱟ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsshareextensionbookmarkthispageactiontitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuaddbookmarkactiontitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Bookmark This Page</seg>
 			</tuv>
@@ -10033,7 +10033,7 @@
 				<seg>ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱵᱩᱩᱠᱢᱟᱨᱠ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuaddbookmarkactiontitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsshareextensionbookmarkthispageactiontitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Bookmark This Page</seg>
 			</tuv>
@@ -10089,7 +10089,7 @@
 				<seg>ᱥᱟᱯ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssearchthirdpartyenginescancel" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringscancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -10098,30 +10098,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssendtocancelbutton" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojloginmanagerstringscancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojclearhistoryconfirmstringscancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsreopenalertactionscancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -10145,7 +10121,7 @@
 				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojclearprivatedataconfirmstringscancel" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssearchthirdpartyenginescancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -10161,7 +10137,31 @@
 				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringscancel" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsreopenalertactionscancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojclearhistoryconfirmstringscancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojloginmanagerstringscancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojclearprivatedataconfirmstringscancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -10241,14 +10241,6 @@
 				<seg>ᱱᱤᱛᱚᱠᱟ ᱦᱤᱛᱟᱞ ᱯᱷᱟᱨᱪᱟ ᱞᱮᱠᱷᱟᱭ ᱦᱤᱛᱟᱞ, ᱠᱩᱠᱤ ᱠᱚ ᱟᱨ ᱮᱴᱟᱜᱟ ᱯᱟᱱᱛᱮᱭᱟᱠ ᱨᱮᱭᱟ ᱥᱟᱠᱷᱤᱭᱟᱛ ᱚᱪᱚᱜᱳᱣᱟ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsclearprivatedatasectionname" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Clear Private Data</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱱᱤᱡᱮᱨᱟᱠ ᱥᱟᱠᱷᱤᱭᱟᱛ ᱚᱪᱚᱜ ᱢᱮ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsclearprivatedatatitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Clear Private Data</seg>
@@ -10258,6 +10250,14 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsclearprivatedataclearbutton" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Clear Private Data</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱱᱤᱡᱮᱨᱟᱠ ᱥᱟᱠᱷᱤᱭᱟᱛ ᱚᱪᱚᱜ ᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsclearprivatedatasectionname" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Clear Private Data</seg>
 			</tuv>
@@ -10289,6 +10289,14 @@
 				<seg>ᱯᱟᱱᱛᱮ ᱯᱷᱟᱨᱪᱟ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsphotonmenuclose" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Close</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱵᱚᱸᱫᱚᱭ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsclose" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close</seg>
@@ -10297,12 +10305,12 @@
 				<seg>ᱵᱚᱸᱫᱚᱭ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsphotonmenuclose" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuclosealltabsactiontitle" srclang="en-US">
 			<tuv xml:lang="en-US">
-				<seg>Close</seg>
+				<seg>Close All Tabs</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱵᱚᱸᱫᱚᱭ</seg>
+				<seg>ᱡᱚᱛᱚ ᱴᱮᱵ ᱵᱚᱸᱫᱚᱭ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtrayclosealltabskeycodetitle" srclang="en-US">
@@ -10321,12 +10329,20 @@
 				<seg>ᱡᱚᱛᱚ ᱴᱮᱵ ᱠᱚ ᱵᱚᱸᱫᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuclosealltabsactiontitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetcloseprivatetabslabelv2" srclang="en-US">
 			<tuv xml:lang="en-US">
-				<seg>Close All Tabs</seg>
+				<seg>Close Private Tabs</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱡᱚᱛᱚ ᱴᱮᱵ ᱵᱚᱸᱫᱚᱭ</seg>
+				<seg>ᱱᱤᱡᱮᱨᱟᱠ ᱴᱮᱵ ᱠᱚ ᱵᱚᱸᱫᱚ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojprivatebrowsingstringsclose-private-tabs" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Close Private Tabs</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱱᱤᱡᱮᱨᱟᱠ ᱴᱮᱵ ᱠᱚ ᱵᱚᱸᱫᱚ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetcloseprivatetabslabelv3" srclang="en-US">
@@ -10337,23 +10353,7 @@
 				<seg>ᱱᱤᱡᱮᱨᱟᱠ ᱴᱮᱵ ᱠᱚ ᱵᱚᱸᱫᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetcloseprivatetabslabelv2" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Close Private Tabs</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱱᱤᱡᱮᱨᱟᱠ ᱴᱮᱵ ᱠᱚ ᱵᱚᱸᱫᱚ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetcloseprivatetabsbutton" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Close Private Tabs</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱱᱤᱡᱮᱨᱟᱠ ᱴᱮᱵ ᱠᱚ ᱵᱚᱸᱫᱚ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojprivatebrowsingstringsclose-private-tabs" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close Private Tabs</seg>
 			</tuv>
@@ -10433,7 +10433,7 @@
 				<seg>ᱨᱮᱴᱚᱯ ᱵᱳᱨᱰ ᱨᱮ ᱱᱚᱠᱚᱞᱮᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojloginmanagerstringscopy" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtraymoremenucopy" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Copy</seg>
 			</tuv>
@@ -10441,7 +10441,7 @@
 				<seg>ᱱᱚᱠᱚᱞ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtraymoremenucopy" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojloginmanagerstringscopy" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Copy</seg>
 			</tuv>
@@ -10625,7 +10625,7 @@
 				<seg>ᱦᱮᱸᱫᱮ ᱩᱭᱦᱚᱨ ᱨᱮ ᱱᱤᱛᱠ ᱫᱚ ᱦᱮᱸᱫᱮ ᱠᱟᱴᱷᱤ ᱵᱳᱨᱲ ᱟᱨ ᱦᱮᱸᱫᱮ ᱪᱷᱤᱴᱠᱟᱣ ᱯᱚᱨᱫᱟ ᱥᱟᱹᱢᱤᱞᱮᱱᱟ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsdatamanagementsectionname" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsdatamanagementtitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Data Management</seg>
 			</tuv>
@@ -10633,7 +10633,7 @@
 				<seg>ᱥᱟᱠᱷᱤᱭᱟᱛ ᱵᱮᱵᱚᱥᱛᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsdatamanagementtitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsdatamanagementsectionname" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Data Management</seg>
 			</tuv>
@@ -10665,12 +10665,12 @@
 				<seg>ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱸᱡᱤᱱ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojhistorypanelstringsdelete" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingswebsitedatabuttondelete" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Delete</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱜᱮᱫ ᱜᱤᱰᱤ</seg>
+				<seg>ᱢᱮᱴᱟᱣ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojloginmanagerstringsdelete" srclang="en-US">
@@ -10681,15 +10681,15 @@
 				<seg>ᱜᱮᱫ ᱜᱤᱰᱤ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingswebsitedatabuttondelete" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsdownloadspaneldeletetitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Delete</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱢᱮᱴᱟᱣ ᱢᱮ</seg>
+				<seg>ᱜᱮᱫ ᱜᱤᱰᱤ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsdownloadspaneldeletetitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojhistorypanelstringsdelete" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Delete</seg>
 			</tuv>
@@ -10777,14 +10777,6 @@
 				<seg>+%d ᱵᱚᱲᱛᱤ...</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingswebsitedatabuttondone" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Done</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱦᱩᱭᱮᱱᱟ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingssearchdonebutton" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Done</seg>
@@ -10793,7 +10785,7 @@
 				<seg>ᱦᱩᱭᱮᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsdone" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojfindinpagestringsdone" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Done</seg>
 			</tuv>
@@ -10801,7 +10793,15 @@
 				<seg>ᱦᱩᱭᱮᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojfindinpagestringsdone" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingswebsitedatabuttondone" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Done</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱦᱩᱭᱮᱱᱟ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsdone" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Done</seg>
 			</tuv>
@@ -10881,6 +10881,14 @@
 				<seg>ᱱᱤᱛᱚᱜ ᱚᱛᱩᱨ ᱟᱲᱜᱩᱤ ᱢᱮ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopendownloadsactionaccessibilitylabelv2" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Downloads</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱰᱟᱩᱱᱞᱳᱰ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsdownloads" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Downloads</seg>
@@ -10890,14 +10898,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsdownloadstoastgotodownloadsbutton" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Downloads</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱰᱟᱩᱱᱞᱳᱰ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopendownloadsactionaccessibilitylabelv2" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Downloads</seg>
 			</tuv>
@@ -10929,7 +10929,7 @@
 				<seg>%d ᱴᱮᱵ ᱠᱚ ᱵᱚᱸᱫᱚ ᱟᱠᱟᱫᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingswebsitedatabuttonedit" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingssearcheditbutton" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Edit</seg>
 			</tuv>
@@ -10937,7 +10937,7 @@
 				<seg>ᱥᱟᱯᱲᱟᱣ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingssearcheditbutton" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingswebsitedatabuttonedit" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Edit</seg>
 			</tuv>
@@ -11121,7 +11121,7 @@
 				<seg>ᱰᱤᱜᱟᱹᱣᱮᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssearchthirdpartyenginesfailedtitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssearchthirdpartyenginesformerrortitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Failed</seg>
 			</tuv>
@@ -11129,7 +11129,7 @@
 				<seg>ᱰᱤᱜᱟᱹᱣᱮᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssearchthirdpartyenginesformerrortitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssearchthirdpartyenginesfailedtitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Failed</seg>
 			</tuv>
@@ -11209,7 +11209,7 @@
 				<seg>ᱠᱟᱹᱴᱩᱵᱪᱷᱟᱯᱟ ᱟᱜ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsfxafirefoxaccount" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsfxatitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Firefox Account</seg>
 			</tuv>
@@ -11217,7 +11217,7 @@
 				<seg>Firefox ᱠᱷᱟᱛᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsfxatitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsfxafirefoxaccount" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Firefox Account</seg>
 			</tuv>
@@ -11305,20 +11305,20 @@
 				<seg>Firefox - ᱯᱚᱠᱮᱴ ᱵᱟᱛᱟᱣ ᱠᱟᱫᱟᱭ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshistorypanelemptysyncedtabsstatetitle" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Firefox Sync</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>Firefox ᱛᱷᱟᱨ ᱦᱚᱪᱚ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssenttabnotabarrivingnotificationtitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Firefox Sync</seg>
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>Firefox ᱛᱚᱞ ᱡᱚᱠᱷᱟ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshistorypanelemptysyncedtabsstatetitle" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Firefox Sync</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>Firefox ᱛᱷᱟᱨ ᱦᱚᱪᱚ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsfxapush_deviceconnected_body" srclang="en-US">
@@ -11361,7 +11361,7 @@
 				<seg>Firefox ᱟᱢᱟᱠ ᱪᱤᱛᱚᱨ ᱠᱚ ᱟᱹᱛᱩᱨ ᱥᱟᱱᱟᱭ ᱤ ᱠᱟᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarkbookmarkdetailfieldsheaderfoldertitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarksfolderlabel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Folder</seg>
 			</tuv>
@@ -11369,7 +11369,7 @@
 				<seg>ᱯᱚᱴᱚᱢ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarksfolderlabel" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarkbookmarkdetailfieldsheaderfoldertitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Folder</seg>
 			</tuv>
@@ -11473,22 +11473,6 @@
 				<seg>ᱱᱚᱠᱚᱞ ᱞᱤᱸᱠ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ?</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetgotocopiedlinklabelv4" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Go to Copied Link</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱱᱚᱠᱚᱞ ᱟᱠᱟᱱ ᱞᱮᱸᱠ ᱛᱮ ᱪᱟᱞᱟᱜᱢᱮ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetdropdownmenuitemgotocopiedlink" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Go to Copied Link</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱱᱚᱠᱚᱞ ᱟᱠᱟᱱ ᱞᱮᱸᱠ ᱛᱮ ᱪᱟᱞᱟᱜᱢᱮ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetgotocopiedlinklabelv2" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Go to Copied Link</seg>
@@ -11505,7 +11489,23 @@
 				<seg>ᱱᱚᱠᱚᱞ ᱟᱠᱟᱱ ᱞᱮᱸᱠ ᱛᱮ ᱪᱟᱞᱟᱜᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojdefault-browserstringsdefaultbrowsercardbutton" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetgotocopiedlinklabelv4" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Go to Copied Link</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱱᱚᱠᱚᱞ ᱟᱠᱟᱱ ᱞᱮᱸᱠ ᱛᱮ ᱪᱟᱞᱟᱜᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetdropdownmenuitemgotocopiedlink" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Go to Copied Link</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱱᱚᱠᱚᱞ ᱟᱠᱟᱱ ᱞᱮᱸᱠ ᱛᱮ ᱪᱟᱞᱟᱜᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringscoversheetv24etpsettingsbutton" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Go to Settings</seg>
 			</tuv>
@@ -11513,7 +11513,7 @@
 				<seg>ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringscoversheetv24etpsettingsbutton" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojdefault-browserstringsdefaultbrowsercardbutton" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Go to Settings</seg>
 			</tuv>
@@ -11561,6 +11561,14 @@
 				<seg>ᱩᱠᱩᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsnewtaboptionhistory" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>History</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱦᱤᱛᱟᱹᱞ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssyncstatehistorytitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>History</seg>
@@ -11569,7 +11577,7 @@
 				<seg>ᱦᱤᱛᱟᱹᱞ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsnewtaboptionhistory" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopenhistoryactionaccessibilitylabelv2" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>History</seg>
 			</tuv>
@@ -11593,14 +11601,6 @@
 				<seg>ᱦᱤᱛᱟᱹᱞ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopenhistoryactionaccessibilitylabelv2" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>History</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱦᱤᱛᱟᱹᱞ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopenhomepageactiontitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Home</seg>
@@ -11609,7 +11609,7 @@
 				<seg>ᱚᱲᱟᱜ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsnewtaboptionhomepage" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingshomepagesectionname" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Homepage</seg>
 			</tuv>
@@ -11617,7 +11617,7 @@
 				<seg>ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingshomepagesectionname" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsnewtaboptionhomepage" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Homepage</seg>
 			</tuv>
@@ -11633,7 +11633,7 @@
 				<seg>ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ ᱥᱟᱡᱟᱣ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingstrackingprotectionprotectionlevelfooter" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingstrackingprotectionalertdescription" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>If a site doesn’t work as expected, tap the shield in the address bar and turn off Enhanced Tracking Protection for that page.</seg>
 			</tuv>
@@ -11641,7 +11641,7 @@
 				<seg>ᱥᱟᱭᱤᱡ ᱡᱮᱞᱡᱠᱟ ᱞᱟᱸᱢᱤ ᱠᱟᱛᱷᱟ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱞᱮᱫᱟᱭ, ᱡᱟᱹᱱᱠᱟᱨ ᱨᱮᱭᱟᱜ ᱥᱤᱞᱰ ᱨᱮ ᱴᱤᱯᱹᱟᱣ ᱢᱮ ᱟᱨ ᱥᱟᱠᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱲᱦᱟᱣᱟᱠᱟᱱ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱪᱤᱱᱦᱟᱹ ᱟᱰ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingstrackingprotectionalertdescription" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingstrackingprotectionprotectionlevelfooter" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>If a site doesn’t work as expected, tap the shield in the address bar and turn off Enhanced Tracking Protection for that page.</seg>
 			</tuv>
@@ -11729,7 +11729,7 @@
 				<seg>ᱢᱟᱲᱟᱝ ᱦᱟᱴ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbreachalertslearnmorebutton" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingstrackingprotectionlearnmore" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Learn more</seg>
 			</tuv>
@@ -11737,7 +11737,7 @@
 				<seg>ᱰᱷᱮᱨ ᱥᱮᱲᱟᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingstrackingprotectionlearnmore" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbreachalertslearnmorebutton" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Learn more</seg>
 			</tuv>
@@ -12009,20 +12009,20 @@
 				<seg>%@ ᱵᱚᱫᱚᱞᱮᱱᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtrayswipemenumore" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>More</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱟᱨᱦᱚᱸ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsactivitystreampocketmorelink" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>More</seg>
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱰᱷᱮᱨ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtrayswipemenumore" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>More</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱟᱨᱦᱚᱸ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingstrackingprotectionmoreinfo" srclang="en-US">
@@ -12049,6 +12049,14 @@
 				<seg>ᱢᱤᱫ ᱦᱟᱴ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱡᱟᱹᱥᱛᱤ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionssharetoinfoplistcfbundledisplayname" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>$(MOZ_BUNDLE_DISPLAY_NAME)</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>$(MOZ_BUNDLE_DISPLAY_NAME)</seg>
+			</tuv>
+		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionsnotificationserviceinfoplistcfbundledisplayname" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(MOZ_BUNDLE_DISPLAY_NAME)</seg>
@@ -12058,14 +12066,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientinfoplistcfbundledisplayname" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>$(MOZ_BUNDLE_DISPLAY_NAME)</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>$(MOZ_BUNDLE_DISPLAY_NAME)</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionssharetoinfoplistcfbundledisplayname" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(MOZ_BUNDLE_DISPLAY_NAME)</seg>
 			</tuv>
@@ -12193,22 +12193,6 @@
 				<seg>ᱱᱟᱶᱟ ᱵᱷᱮᱜᱟᱨᱟᱜ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsnew-tab" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>New Tab</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshotkeysnewtabdiscoverytitle" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>New Tab</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientinfoplistshortcutitemtitlenewtab" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>New Tab</seg>
@@ -12217,7 +12201,7 @@
 				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientenlprojinfopliststringsshortcutitemtitlenewtab" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsnewtabtitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>New Tab</seg>
 			</tuv>
@@ -12233,7 +12217,23 @@
 				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsnewtabtitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsnew-tab" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>New Tab</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientenlprojinfopliststringsshortcutitemtitlenewtab" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>New Tab</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshotkeysnewtabdiscoverytitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>New Tab</seg>
 			</tuv>
@@ -12329,7 +12329,7 @@
 				<seg>ᱴᱮᱵ ᱠᱚ ᱡᱷᱤ ᱵᱚᱱᱩ-ᱟ.</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsswitchtononpbmkeycodetitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshotkeysnormalmodediscoverytitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Normal Browsing Mode</seg>
 			</tuv>
@@ -12337,7 +12337,7 @@
 				<seg>ᱥᱟᱫᱷᱟᱨᱚᱱ ᱯᱟᱱᱛᱮᱭᱟᱠ ᱚᱵᱚᱥᱛᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshotkeysnormalmodediscoverytitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsswitchtononpbmkeycodetitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Normal Browsing Mode</seg>
 			</tuv>
@@ -12425,6 +12425,30 @@
 				<seg>ᱟᱺᱯᱷᱞᱟᱤᱱ ᱣᱮᱵ ᱥᱟᱭᱤᱴ ᱥᱟᱹᱠᱷᱤᱭᱟᱹᱛ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojclearprivatedataconfirmstringsok" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>OK</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱴᱷᱤᱠ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsscanqrcodeerrorokbutton" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>OK</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱴᱷᱤᱠ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssearchthirdpartyenginesok" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>OK</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱴᱷᱤᱠ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssendtoerrorokbutton" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>OK</seg>
@@ -12450,30 +12474,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsok" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>OK</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱴᱷᱤᱠ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojclearprivatedataconfirmstringsok" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>OK</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱴᱷᱤᱠ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsscanqrcodeerrorokbutton" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>OK</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱴᱷᱤᱠ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssearchthirdpartyenginesok" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>OK</seg>
 			</tuv>
@@ -12585,14 +12585,6 @@
 				<seg>Firefox ᱨᱮ ᱡᱷᱤᱜ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshomepanelcontextmenuopeninnewprivatetab" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Open in New Private Tab</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱠ ᱴᱮᱵ ᱨᱮ ᱡᱷᱤᱜ ᱢᱮ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojprivatebrowsingstringscontextmenuopeninnewprivatetabbuttontitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open in New Private Tab</seg>
@@ -12601,12 +12593,12 @@
 				<seg>ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱠ ᱴᱮᱵ ᱨᱮ ᱡᱷᱤᱜ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringscontextmenuopeninnewtabbuttontitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshomepanelcontextmenuopeninnewprivatetab" srclang="en-US">
 			<tuv xml:lang="en-US">
-				<seg>Open in New Tab</seg>
+				<seg>Open in New Private Tab</seg>
 			</tuv>
 			<tuv xml:lang="sat">
-				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ ᱨᱮ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ</seg>
+				<seg>ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱠ ᱴᱮᱵ ᱨᱮ ᱡᱷᱤᱜ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshomepanelcontextmenuopeninnewtab" srclang="en-US">
@@ -12615,6 +12607,14 @@
 			</tuv>
 			<tuv xml:lang="sat">
 				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ ᱨᱮ ᱡᱷᱤᱜ ᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringscontextmenuopeninnewtabbuttontitle" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Open in New Tab</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ ᱨᱮ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsshareextensionopeninprivatemodeactiontitle" srclang="en-US">
@@ -12673,7 +12673,7 @@
 				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtrayopennewtabkeycodetitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingssiriopentabshortcut" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open New Tab</seg>
 			</tuv>
@@ -12681,7 +12681,7 @@
 				<seg>ᱱᱟᱶᱟ ᱴᱮᱵ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingssiriopentabshortcut" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtrayopennewtabkeycodetitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open New Tab</seg>
 			</tuv>
@@ -12777,7 +12777,7 @@
 				<seg>ᱯᱟᱥ ᱠᱚᱰ ᱵᱟᱭ ᱢᱮᱥᱟ ᱞᱮᱱᱟ, ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringspassword" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojloginmanagerstringspassword" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Password</seg>
 			</tuv>
@@ -12785,7 +12785,7 @@
 				<seg>ᱫᱟᱱᱟᱲ ᱥᱟᱵᱟᱫ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojloginmanagerstringspassword" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringspassword" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Password</seg>
 			</tuv>
@@ -12945,31 +12945,7 @@
 				<seg>ᱱᱤᱡᱮᱨᱟᱠ ᱥᱮᱸᱫᱽᱨᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:uitestsinfoplistcfbundlename" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:xcuitestsinfoplistcfbundlename" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedtestsinfoplistcfbundlename" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:storageperftestsinfoplistcfbundlename" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
@@ -13001,6 +12977,22 @@
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
 		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:accounttestsinfoplistcfbundlename" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:accountinfoplistcfbundlename" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:synctelemetrytestsinfoplistcfbundlename" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(PRODUCT_NAME)</seg>
@@ -13017,7 +13009,7 @@
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionstodayinfoplistcfbundlename" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:uitestsinfoplistcfbundlename" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
@@ -13025,7 +13017,7 @@
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:accounttestsinfoplistcfbundlename" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedtestsinfoplistcfbundlename" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
@@ -13033,7 +13025,7 @@
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:accountinfoplistcfbundlename" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:storageperftestsinfoplistcfbundlename" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
@@ -13066,6 +13058,14 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:clienttestsinfoplistcfbundlename" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionstodayinfoplistcfbundlename" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
@@ -13257,7 +13257,7 @@
 				<seg>ᱯᱟᱥᱠᱳᱰ ᱫᱩᱦᱲᱟ. ᱟᱫᱮᱨ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsreload" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenulibraryreload" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Reload</seg>
 			</tuv>
@@ -13265,7 +13265,7 @@
 				<seg>ᱫᱚᱦᱲᱟ ᱞᱟᱫᱤ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenulibraryreload" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsreload" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Reload</seg>
 			</tuv>
@@ -13313,7 +13313,7 @@
 				<seg>ᱨᱤᱢᱚᱴ ᱠᱞᱟᱮᱸᱴ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsremove" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsfxaremoveaccount" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
 			</tuv>
@@ -13329,7 +13329,7 @@
 				<seg>ᱚᱪᱚᱜ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsfxaremoveaccount" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsremove" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
 			</tuv>
@@ -13585,14 +13585,6 @@
 				<seg>%@ ᱞᱟᱹᱜᱤᱛ ᱫᱟᱱᱟᱲ ᱥᱟᱵᱟᱫ ᱥᱟᱸᱪᱟᱣ ᱢᱮ?</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuscanqrcodeactiontitle" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Scan QR Code</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>QR ᱠᱚᱰ ᱥᱠᱟᱱ ᱢᱮ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsscanqrcodeviewtitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Scan QR Code</seg>
@@ -13601,7 +13593,15 @@
 				<seg>QR ᱠᱚᱰ ᱥᱠᱟᱱ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientenlprojinfopliststringsshortcutitemtitleqrcode" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuscanqrcodeactiontitle" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Scan QR Code</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>QR ᱠᱚᱰ ᱥᱠᱟᱱ ᱢᱮ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientinfoplistshortcutitemtitleqrcode" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Scan QR Code</seg>
 			</tuv>
@@ -13609,7 +13609,7 @@
 				<seg>Scan QR ᱠᱚᱰ ᱥᱠᱟᱱ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientinfoplistshortcutitemtitleqrcode" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientenlprojinfopliststringsshortcutitemtitleqrcode" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Scan QR Code</seg>
 			</tuv>
@@ -13665,7 +13665,7 @@
 				<seg>ᱦᱩᱫᱤᱥ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱸᱫᱽᱨᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetsearchinfirefoxv2" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetnewsearchbuttonlabelv1" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Search in Firefox</seg>
 			</tuv>
@@ -13673,7 +13673,7 @@
 				<seg>Firefox ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetnewsearchbuttonlabelv1" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetsearchinfirefoxv2" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Search in Firefox</seg>
 			</tuv>
@@ -13945,7 +13945,7 @@
 				<seg>ᱛᱷᱟᱨ ᱫᱚᱦᱚᱭ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettings" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopensettingsactiontitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Settings</seg>
 			</tuv>
@@ -13953,7 +13953,7 @@
 				<seg>ᱥᱟᱡᱟᱣ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopensettingsactiontitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettings" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Settings</seg>
 			</tuv>
@@ -14057,7 +14057,7 @@
 				<seg>ᱯᱟᱱᱛᱮ ᱦᱩᱫᱤᱥ ᱠᱚ ᱩᱫᱩᱠ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsshow-tabs" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenushowtabstitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Show Tabs</seg>
 			</tuv>
@@ -14065,7 +14065,7 @@
 				<seg>ᱴᱮᱵ ᱠᱚ ᱩᱫᱩᱜ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenushowtabstitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsshow-tabs" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Show Tabs</seg>
 			</tuv>
@@ -14217,7 +14217,7 @@
 				<seg>ᱴᱮᱵ ᱵᱚᱱᱸᱫᱚᱭ ᱞᱟᱹᱜᱤᱫ ᱡᱚᱡᱚᱢ ᱟᱨ ᱞᱮᱝᱜᱟ ᱯᱮᱭᱟ ᱠᱟᱹᱴᱩᱵ ᱛᱮ ᱥᱣᱟᱭᱤᱯ ᱢᱮ ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringscontextmenubuttontoastnewtabopenedbuttontext" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringscontextmenubuttontoastnewprivatetabopenedbuttontext" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Switch</seg>
 			</tuv>
@@ -14225,7 +14225,7 @@
 				<seg>ᱵᱚᱫᱚᱞ ᱢᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringscontextmenubuttontoastnewprivatetabopenedbuttontext" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringscontextmenubuttontoastnewtabopenedbuttontext" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Switch</seg>
 			</tuv>
@@ -14289,7 +14289,7 @@
 				<seg>ᱛᱷᱟᱨᱮᱱᱟ ᱥᱟᱫᱷᱚᱱ ᱠᱚ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssynced-tabs" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopensyncedtabsactionaccessibilitylabelv2" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Synced Tabs</seg>
 			</tuv>
@@ -14297,7 +14297,7 @@
 				<seg>ᱛᱷᱟᱨ ᱦᱚᱪᱚ ᱴᱮᱵ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopensyncedtabsactionaccessibilitylabelv2" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssynced-tabs" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Synced Tabs</seg>
 			</tuv>
@@ -14769,7 +14769,7 @@
 				<seg>ᱧᱩᱛᱩᱢ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsaddcustomenginetitlelabel" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarkstitlelabel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Title</seg>
 			</tuv>
@@ -14777,7 +14777,7 @@
 				<seg>ᱧᱩᱛᱩᱢ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarkstitlelabel" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsaddcustomenginetitlelabel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Title</seg>
 			</tuv>
@@ -14793,7 +14793,7 @@
 				<seg>ᱛᱮᱦᱮᱸᱧ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtraytodayheader" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstoday" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Today</seg>
 			</tuv>
@@ -14801,7 +14801,7 @@
 				<seg>ᱛᱮᱦᱮᱸᱧ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstoday" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtraytodayheader" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Today</seg>
 			</tuv>
@@ -14825,7 +14825,7 @@
 				<seg>ᱛᱮᱦᱮᱸᱧ %@ ᱴᱟ ᱨᱮ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopentopsitesactionaccessibilitylabel" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsactivitystreamtopsitessectiontitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Top Sites</seg>
 			</tuv>
@@ -14841,7 +14841,7 @@
 				<seg>ᱪᱮᱛᱟᱱ ᱨᱤᱱ ᱥᱟᱭᱤᱴ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsactivitystreamtopsitessectiontitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuopentopsitesactionaccessibilitylabel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Top Sites</seg>
 			</tuv>
@@ -15009,7 +15009,7 @@
 				<seg>Twitter</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabsdeleteallundobutton" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstoastsundo" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Undo</seg>
 			</tuv>
@@ -15017,7 +15017,7 @@
 				<seg>ᱫᱚᱦᱲᱟ ᱧᱟᱢ ᱨᱩᱣᱟᱹᱲ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstoastsundo" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabsdeleteallundobutton" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Undo</seg>
 			</tuv>
@@ -15073,6 +15073,14 @@
 				<seg>ᱡᱚᱲᱟᱣ ᱞᱟᱹᱜᱤᱛ ᱛᱮ Firefox ᱦᱟᱞᱤᱭᱟᱠ ᱢᱮ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarksurllabel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>URL</seg>
+			</tuv>
+			<tuv xml:lang="sat">
+				<seg>URL</seg>
+			</tuv>
+		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsaddcustomengineurllabel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>URL</seg>
@@ -15082,14 +15090,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarkdetailfieldurllabel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>URL</seg>
-			</tuv>
-			<tuv xml:lang="sat">
-				<seg>URL</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarksurllabel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>URL</seg>
 			</tuv>
@@ -15369,7 +15369,7 @@
 				<seg>ᱡᱟ ᱣᱮᱵ ᱥᱟᱭᱤᱴ ᱠᱚ ᱟᱢ ᱱᱤᱛᱚᱠ ᱧᱮᱞ ᱠᱤᱫᱟᱢ ᱚᱱᱟ ᱠᱚ ᱫᱚ ᱱᱚᱸᱲᱮ ᱩᱫᱩᱜᱟᱭ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientinfoplistnslocationwheninuseusagedescription" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientenlprojinfopliststringsnslocationwheninuseusagedescription" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Websites you visit may request your location.</seg>
 			</tuv>
@@ -15377,7 +15377,7 @@
 				<seg>ᱦᱤᱨᱤᱟᱠᱟᱱ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱟᱢᱟᱜ ᱡᱟᱭᱜᱟ ᱠᱚ ᱠᱷᱚᱡ ᱫᱟᱲᱮᱟᱜᱼᱟ᱾</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientenlprojinfopliststringsnslocationwheninuseusagedescription" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientinfoplistnslocationwheninuseusagedescription" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Websites you visit may request your location.</seg>
 			</tuv>
@@ -15489,7 +15489,7 @@
 				<seg>ᱦᱚᱞᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsyesterday" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtrayyesterdayheader" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Yesterday</seg>
 			</tuv>
@@ -15497,7 +15497,7 @@
 				<seg>ᱦᱚᱞᱟ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtrayyesterdayheader" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsyesterday" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Yesterday</seg>
 			</tuv>

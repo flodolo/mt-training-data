@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-02-19T16:16:20.587570">
+	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-03-01T00:23:57.689167">
 	</header>
 	<body>
 		<tu tuid="firefox-accounts:LC_MESSAGES/client.po:account-picture" srclang="en-US">
@@ -624,7 +624,7 @@ Maanen. Púustej. Tu ka'aten.</seg>
 				<seg>Ma’ u beetal</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:dialog_addtohomescreen_action_cancelcancel" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:action_cancelcancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -632,7 +632,7 @@ Maanen. Púustej. Tu ka'aten.</seg>
 				<seg>Ma’ u beetal</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:action_cancelcancel" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:dialog_addtohomescreen_action_cancelcancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -730,20 +730,20 @@ Maanen. Púustej. Tu ka'aten.</seg>
 				<seg>Ka’a ts’íibta’ak le k’áaba’ ti’ le nuupankila’</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_category_autocomplete_custom_urlscustom-urls" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Custom URLs</seg>
-			</tuv>
-			<tuv xml:lang="yua">
-				<seg>Tsikbe’eniltal URLs</seg>
-			</tuv>
-		</tu>
 		<tu tuid="focus-for-android:app.po:preference_autocomplete_subitem_customlistcustom-urls" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Custom URLs</seg>
 			</tuv>
 			<tuv xml:lang="yua">
 				<seg>URL tsikbe’eniltal</seg>
+			</tuv>
+		</tu>
+		<tu tuid="focus-for-android:app.po:preference_category_autocomplete_custom_urlscustom-urls" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Custom URLs</seg>
+			</tuv>
+			<tuv xml:lang="yua">
+				<seg>Tsikbe’eniltal URLs</seg>
 			</tuv>
 		</tu>
 		<tu tuid="focus-for-android:app.po:preference_category_data_choicesdata-choices" srclang="en-US">
@@ -803,7 +803,7 @@ Maanen. Púustej. Tu ka'aten.</seg>
 </seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:dismiss_no_suggestions_prompt_buttondismiss" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:content_description_dismiss_inputdismiss" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Dismiss</seg>
 			</tuv>
@@ -811,7 +811,7 @@ Maanen. Púustej. Tu ka'aten.</seg>
 				<seg>Ma’ ilbil</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:content_description_dismiss_inputdismiss" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:dismiss_no_suggestions_prompt_buttondismiss" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Dismiss</seg>
 			</tuv>
@@ -948,7 +948,7 @@ Maanen. Púustej. Tu ka'aten.</seg>
 				<seg>Tuupuk ts'óokole' ka je'ebek</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:notification_erase_texterase-browsing-history" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:shortcut_erase_long_labelerase-browsing-history" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Erase browsing history</seg>
 			</tuv>
@@ -964,7 +964,7 @@ Maanen. Púustej. Tu ka'aten.</seg>
 				<seg>Lúubsal tuláakal tu'ux maanech</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:tabs_tray_action_eraseerase-browsing-history" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:notification_erase_texterase-browsing-history" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Erase browsing history</seg>
 			</tuv>
@@ -972,7 +972,7 @@ Maanen. Púustej. Tu ka'aten.</seg>
 				<seg>Lúubsal tuláakal tu'ux maanech</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:shortcut_erase_long_labelerase-browsing-history" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:tabs_tray_action_eraseerase-browsing-history" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Erase browsing history</seg>
 			</tuv>
@@ -1172,7 +1172,7 @@ Maanen. Púustej. Tu ka'aten.</seg>
 				<seg>T’aanil</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_mozilla_telemetry_summarylearn-more" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_autocomplete_learn_morelearn-more" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Learn more</seg>
 			</tuv>
@@ -1180,7 +1180,7 @@ Maanen. Púustej. Tu ka'aten.</seg>
 				<seg>K’ajóoltal u yaanali’</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_autocomplete_learn_morelearn-more" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_mozilla_telemetry_summarylearn-more" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Learn more</seg>
 			</tuv>
@@ -1659,15 +1659,15 @@ Maanen. Púustej. Tu ka'aten.</seg>
 				<seg>Náach púusbil yéetel USB/Wi-Fi</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_autocomplete_action_remove_content_descriptionremove" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_exceptions_menu_removeremove" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
 			</tuv>
 			<tuv xml:lang="yua">
-				<seg>Tuupuk</seg>
+				<seg>Tuup</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_autocomplete_menu_removeremove" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_autocomplete_action_remove_content_descriptionremove" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
 			</tuv>
@@ -1683,12 +1683,12 @@ Maanen. Púustej. Tu ka'aten.</seg>
 				<seg>Tuupuk</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_exceptions_menu_removeremove" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_autocomplete_menu_removeremove" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
 			</tuv>
 			<tuv xml:lang="yua">
-				<seg>Tuup</seg>
+				<seg>Tuupuk</seg>
 			</tuv>
 		</tu>
 		<tu tuid="focus-for-android:app.po:preference_exceptions_remove_all_button_labelremove-all-websites" srclang="en-US">
@@ -2420,7 +2420,7 @@ be temporary, and you can try again later.&lt;/li&gt;
 				<seg>Beelankij a Ts’áalk’ab uti’al u páajtal a meyajtik le kúuchila'</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:gv_prompt_username_hintusername" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:http_auth_dialog_usernameusername" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Username</seg>
 			</tuv>
@@ -2428,7 +2428,7 @@ be temporary, and you can try again later.&lt;/li&gt;
 				<seg>A k’áaba’</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:http_auth_dialog_usernameusername" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:gv_prompt_username_hintusername" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Username</seg>
 			</tuv>
@@ -2540,20 +2540,20 @@ be temporary, and you can try again later.&lt;/li&gt;
 				<seg>A ts'áalk'abe' je'el u béetik u meyaj %1$s  wa junp'éel URL jeba'anil ich le kúuchilo'. Yáan u t'áabaj le ku payt'aano'</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:your_rightsyour-rights" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Your Rights</seg>
-			</tuv>
-			<tuv xml:lang="yua">
-				<seg>A tojbe’enilob</seg>
-			</tuv>
-		</tu>
 		<tu tuid="focus-for-android:app.po:menu_rightsyour-rights" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Your Rights</seg>
 			</tuv>
 			<tuv xml:lang="yua">
 				<seg>A tojbe'enilo'ob</seg>
+			</tuv>
+		</tu>
+		<tu tuid="focus-for-android:app.po:your_rightsyour-rights" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Your Rights</seg>
+			</tuv>
+			<tuv xml:lang="yua">
+				<seg>A tojbe’enilob</seg>
 			</tuv>
 		</tu>
 		<tu tuid="focus-for-android:app.po:firstrun_search_titleyour-search-your-way" srclang="en-US">

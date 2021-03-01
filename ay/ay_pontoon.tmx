@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-02-19T16:05:12.453829">
+	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-03-01T00:05:29.770372">
 	</header>
 	<body>
 		<tu tuid="focus-for-android:app.po:content_blocking_disabled-" srclang="en-US">
@@ -332,7 +332,7 @@ Browse. Erase. Repeat.</seg>
 				<seg>Llika janjar mantañakis uk waruqaña</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_autocomplete_subitem_customlistcustom-urls" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_category_autocomplete_custom_urlscustom-urls" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Custom URLs</seg>
 			</tuv>
@@ -340,7 +340,7 @@ Browse. Erase. Repeat.</seg>
 				<seg>URLs wakt'ayasiña</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_category_autocomplete_custom_urlscustom-urls" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_autocomplete_subitem_customlistcustom-urls" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Custom URLs</seg>
 			</tuv>
@@ -492,7 +492,7 @@ Browse. Erase. Repeat.</seg>
 				<seg>Pichsuña ukat jist'araña</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:notification_erase_texterase-browsing-history" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:shortcut_erase_long_labelerase-browsing-history" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Erase browsing history</seg>
 			</tuv>
@@ -500,15 +500,7 @@ Browse. Erase. Repeat.</seg>
 				<seg>Thaqhañ imatanak pichsuña</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:content_description_eraseerase-browsing-history" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Erase browsing history</seg>
-			</tuv>
-			<tuv xml:lang="ay">
-				<seg>Thaqhatanak pichsum</seg>
-			</tuv>
-		</tu>
-		<tu tuid="focus-for-android:app.po:shortcut_erase_long_labelerase-browsing-history" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:notification_erase_texterase-browsing-history" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Erase browsing history</seg>
 			</tuv>
@@ -522,6 +514,14 @@ Browse. Erase. Repeat.</seg>
 			</tuv>
 			<tuv xml:lang="ay">
 				<seg>Uka thaqhatanak pichsum</seg>
+			</tuv>
+		</tu>
+		<tu tuid="focus-for-android:app.po:content_description_eraseerase-browsing-history" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Erase browsing history</seg>
+			</tuv>
+			<tuv xml:lang="ay">
+				<seg>Thaqhatanak pichsum</seg>
 			</tuv>
 		</tu>
 		<tu tuid="focus-for-android:app.po:preference_autocomplete_add_exampleexample-examplecom" srclang="en-US">
@@ -644,20 +644,20 @@ Browse. Erase. Repeat.</seg>
 				<seg>Aru</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_autocomplete_learn_morelearn-more" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Learn more</seg>
-			</tuv>
-			<tuv xml:lang="ay">
-				<seg>Juk'amp amuyañataki</seg>
-			</tuv>
-		</tu>
 		<tu tuid="focus-for-android:app.po:preference_mozilla_telemetry_summarylearn-more" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Learn more</seg>
 			</tuv>
 			<tuv xml:lang="ay">
 				<seg>Juk’amp yatiña</seg>
+			</tuv>
+		</tu>
+		<tu tuid="focus-for-android:app.po:preference_autocomplete_learn_morelearn-more" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Learn more</seg>
+			</tuv>
+			<tuv xml:lang="ay">
+				<seg>Juk'amp amuyañataki</seg>
 			</tuv>
 		</tu>
 		<tu tuid="focus-for-android:app.po:accessibility_announcement_loadingloading" srclang="en-US">
@@ -820,7 +820,7 @@ Browse. Erase. Repeat.</seg>
 				<seg>Uups</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:notification_action_openopen" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:download_snackbar_openopen" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open</seg>
 			</tuv>
@@ -828,7 +828,7 @@ Browse. Erase. Repeat.</seg>
 				<seg>Jist'araña</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:download_snackbar_openopen" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:notification_action_openopen" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open</seg>
 			</tuv>
@@ -998,7 +998,7 @@ Browse. Erase. Repeat.</seg>
 				<seg>Mayamp mantam uka llika janjaru</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_search_removeremove" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_autocomplete_menu_removeremove" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
 			</tuv>
@@ -1006,7 +1006,7 @@ Browse. Erase. Repeat.</seg>
 				<seg>Jittayaña</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:preference_autocomplete_menu_removeremove" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:preference_search_removeremove" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
 			</tuv>
@@ -1078,7 +1078,7 @@ Browse. Erase. Repeat.</seg>
 				<seg>Sapa kut mantat llikarjank'ak %1$s kutt'am. "Mantañawjar yapkatam" jiskis uka ajllt'asin %1$s ucht'asim.</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:action_savesave" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:search_add_manually_savesave" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Save</seg>
 			</tuv>
@@ -1086,7 +1086,7 @@ Browse. Erase. Repeat.</seg>
 				<seg>Imaña</seg>
 			</tuv>
 		</tu>
-		<tu tuid="focus-for-android:app.po:search_add_manually_savesave" srclang="en-US">
+		<tu tuid="focus-for-android:app.po:action_savesave" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Save</seg>
 			</tuv>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-02-19T16:16:21.624805">
+	<header adminlang="en-US" creationtoolversion="0.1" creationtool="pontoon" datatype="plaintext" segtype="sentence" o-tmf="plain text" srclang="en-US" creationdate="2021-03-01T00:23:58.700497">
 	</header>
 	<body>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestrings-" srclang="en-US">
@@ -19,7 +19,7 @@
 				<seg>+</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientinfoplistcfbundleshortversionstring" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionsnotificationserviceinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>0.0.1</seg>
 			</tuv>
@@ -27,7 +27,7 @@
 				<seg>0.0.1</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionssharetoinfoplistcfbundleshortversionstring" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>0.0.1</seg>
 			</tuv>
@@ -43,7 +43,7 @@
 				<seg>0.0.1</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionsnotificationserviceinfoplistcfbundleshortversionstring" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionssharetoinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>0.0.1</seg>
 			</tuv>
@@ -67,31 +67,7 @@
 				<seg>%1$@/%2$@</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:xcuitestsinfoplistcfbundleshortversionstring" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>18.0</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>18.0</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:accountinfoplistcfbundleshortversionstring" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>18.0</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>18.0</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:syncinfoplistcfbundleshortversionstring" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>18.0</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>18.0</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:synctelemetrytestsinfoplistcfbundleshortversionstring" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedtestsinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>18.0</seg>
 			</tuv>
@@ -107,7 +83,23 @@
 				<seg>18.0</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedtestsinfoplistcfbundleshortversionstring" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:accountinfoplistcfbundleshortversionstring" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>18.0</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>18.0</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:xcuitestsinfoplistcfbundleshortversionstring" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>18.0</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>18.0</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:synctelemetrytestsinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>18.0</seg>
 			</tuv>
@@ -156,6 +148,14 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedsupporting-filesinfoplistcfbundleshortversionstring" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>18.0</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>18.0</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:syncinfoplistcfbundleshortversionstring" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>18.0</seg>
 			</tuv>
@@ -323,71 +323,7 @@
 				<seg>ⴰⵎⵣⵔⵓⵢ ⵏ ⵓⵙⵜⴰⵔⴰ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojloginmanagerstringscancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⵙⵔ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsdisconnectcancelbutton" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⵙⵔ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssendtocancelbutton" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⵙⵔ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssearchthirdpartyenginescancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⵙⵔ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshomepagesetdialogcancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⵙⵔ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsdownloadscanceldialogcancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⵙⵔ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringscancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⵙⵔ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojclearprivatedataconfirmstringscancel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Cancel</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⵙⵔ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojclearhistoryconfirmstringscancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -404,6 +340,70 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsreopenalertactionscancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⵙⵔ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringscancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⵙⵔ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshomepagesetdialogcancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⵙⵔ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojclearhistoryconfirmstringscancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⵙⵔ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojclearprivatedataconfirmstringscancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⵙⵔ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsdownloadscanceldialogcancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⵙⵔ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssearchthirdpartyenginescancel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⵙⵔ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsdisconnectcancelbutton" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Cancel</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⵙⵔ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojloginmanagerstringscancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Cancel</seg>
 			</tuv>
@@ -475,14 +475,6 @@
 				<seg>ⵔⴳⵍ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtrayclosealltabskeycodetitle" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Close All Tabs</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⵔⴳⵍ ⵉⵙⴽⵙⴰⵍ ⴰⴽⴽⵯ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenuclosealltabsactiontitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close All Tabs</seg>
@@ -492,6 +484,14 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstoolbarmenuclosealltabs" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Close All Tabs</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⵔⴳⵍ ⵉⵙⴽⵙⴰⵍ ⴰⴽⴽⵯ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstabtrayclosealltabskeycodetitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Close All Tabs</seg>
 			</tuv>
@@ -547,7 +547,7 @@
 				<seg>ⵙⵙⵏⵖⵍ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsmenucopytitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenucopyaddresstitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Copy Address</seg>
 			</tuv>
@@ -555,7 +555,7 @@
 				<seg>ⵙⵙⵏⵖⵍ ⴰⵏⵙⴰ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenucopyaddresstitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsmenucopytitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Copy Address</seg>
 			</tuv>
@@ -595,39 +595,7 @@
 				<seg>ⴰⵙⵡⵓⴷⴷⵓ ⵏ ⵉⵙⴼⴽⴰ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientbookmarkpanelstringsdelete" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Delete</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⴽⴽⵙ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojloginmanagerstringsdelete" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Delete</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⴽⴽⵙ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsdownloadspaneldeletetitle" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Delete</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⴽⴽⵙ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientdownloadspanelstringsdelete" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Delete</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⴽⴽⵙ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojhistorypanelstringsdelete" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Delete</seg>
 			</tuv>
@@ -643,7 +611,39 @@
 				<seg>ⴽⴽⵙ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientdownloadspanelstringsdelete" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Delete</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⴽⴽⵙ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientbookmarkpanelstringsdelete" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Delete</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⴽⴽⵙ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientbookmarkpaneldeleteconfirmstringsdelete" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Delete</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⴽⴽⵙ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojhistorypanelstringsdelete" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Delete</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⴽⴽⵙ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsdownloadspaneldeletetitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Delete</seg>
 			</tuv>
@@ -667,7 +667,7 @@
 				<seg>ⴽⴽⵙ ⴰⵣⴷⴰⵢ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojfindinpagestringsdone" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingssearchdonebutton" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Done</seg>
 			</tuv>
@@ -675,7 +675,7 @@
 				<seg>ⵉⵜⵜⵓⵙⴽⵔ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingssearchdonebutton" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingswebsitedatabuttondone" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Done</seg>
 			</tuv>
@@ -691,7 +691,7 @@
 				<seg>ⵉⵜⵜⵓⵙⴽⵔ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingswebsitedatabuttondone" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojfindinpagestringsdone" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Done</seg>
 			</tuv>
@@ -747,7 +747,7 @@
 				<seg>ⴰⴳⵎ ⴷⵖⵉⴽⴽ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsdownloadstoastgotodownloadsbutton" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedsupporting-filesmenustringsmenuopendownloadsactionaccessibilitylabel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Downloads</seg>
 			</tuv>
@@ -755,7 +755,7 @@
 				<seg>ⵜⴰⴳⴰⵎⵉⵏ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedsupporting-filesmenustringsmenuopendownloadsactionaccessibilitylabel" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsdownloadstoastgotodownloadsbutton" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Downloads</seg>
 			</tuv>
@@ -771,7 +771,7 @@
 				<seg>ⵜⵜⵓⵔⴳⵍⵏ %d ⵉⵙⴽⵙⴰⵍ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingssearcheditbutton" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingswebsitedatabuttonedit" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Edit</seg>
 			</tuv>
@@ -779,7 +779,7 @@
 				<seg>ⵙⵏⴼⵍ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingswebsitedatabuttonedit" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingssearcheditbutton" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Edit</seg>
 			</tuv>
@@ -867,7 +867,7 @@
 				<seg>ⴰⴼ ⴳ ⵜⴰⵙⵏⴰ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsfxatitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsfxafirefoxaccount" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Firefox Account</seg>
 			</tuv>
@@ -875,7 +875,7 @@
 				<seg>ⴰⵎⵉⴹⴰⵏ ⵏ ⴼⴰⵢⵔⴼⵓⴽⵙ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsfxafirefoxaccount" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsfxatitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Firefox Account</seg>
 			</tuv>
@@ -907,7 +907,7 @@
 				<seg>ⴰⵙⵎⵢⴰⴽⵓⴷ ⵏ ⴼⴰⵢⵔⴼⵓⴽⵙ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarksfolderlabel" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarkbookmarkdetailfieldsheaderfoldertitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Folder</seg>
 			</tuv>
@@ -915,7 +915,7 @@
 				<seg>ⴰⵙⴷⴰⵡ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarkbookmarkdetailfieldsheaderfoldertitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarksfolderlabel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Folder</seg>
 			</tuv>
@@ -947,7 +947,23 @@
 				<seg>ⵜⵉⵡⵉⵙⵉ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshistorypanelhistorybackbuttontitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshistory" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>History</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⴰⵎⵣⵔⵓⵢ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedsupporting-filesmenustringsmenuopenhistoryactionaccessibilitylabel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>History</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⴰⵎⵣⵔⵓⵢ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssyncstatehistorytitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>History</seg>
 			</tuv>
@@ -971,23 +987,7 @@
 				<seg>ⴰⵎⵣⵔⵓⵢ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedsupporting-filesmenustringsmenuopenhistoryactionaccessibilitylabel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>History</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⴰⵎⵣⵔⵓⵢ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshistory" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>History</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⴰⵎⵣⵔⵓⵢ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssyncstatehistorytitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshistorypanelhistorybackbuttontitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>History</seg>
 			</tuv>
@@ -1163,7 +1163,7 @@
 				<seg>ⵓⴳⴳⴰⵔ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionssharetoinfoplistcfbundledisplayname" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionsnotificationserviceinfoplistcfbundledisplayname" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(MOZ_BUNDLE_DISPLAY_NAME)</seg>
 			</tuv>
@@ -1179,7 +1179,7 @@
 				<seg>$(MOZ_BUNDLE_DISPLAY_NAME)</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionsnotificationserviceinfoplistcfbundledisplayname" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionssharetoinfoplistcfbundledisplayname" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(MOZ_BUNDLE_DISPLAY_NAME)</seg>
 			</tuv>
@@ -1211,14 +1211,6 @@
 				<seg>ⴰⵙⴷⴰⵡ ⴰⵎⴰⵢⵏⵓ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshotkeysnewprivatetabdiscoverytitle" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>New Private Tab</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⴰⵙⴽⵙⵍ ⵓⵙⵍⵉⴳ ⴰⵎⴰⵢⵏⵓ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientinfoplistshortcutitemtitlenewprivatetab" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>New Private Tab</seg>
@@ -1228,6 +1220,14 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientenlprojinfopliststringsshortcutitemtitlenewprivatetab" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>New Private Tab</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⴰⵙⴽⵙⵍ ⵓⵙⵍⵉⴳ ⴰⵎⴰⵢⵏⵓ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshotkeysnewprivatetabdiscoverytitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>New Private Tab</seg>
 			</tuv>
@@ -1259,30 +1259,6 @@
 				<seg>ⴰⵙⴽⵙⵍ ⴰⵎⴰⵢⵏⵓ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientenlprojinfopliststringsshortcutitemtitlenewtab" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>New Tab</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⴰⵙⴽⵙⵍ ⴰⵎⴰⵢⵏⵓ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsnewtabsectionname" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>New Tab</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⴰⵙⴽⵙⵍ ⴰⵎⴰⵢⵏⵓ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsnew-tab" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>New Tab</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⴰⵙⴽⵙⵍ ⴰⵎⴰⵢⵏⵓ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsnewtabtitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>New Tab</seg>
@@ -1299,7 +1275,31 @@
 				<seg>ⴰⵙⴽⵙⵍ ⴰⵎⴰⵢⵏⵓ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstranslationtoasthandlerprompttranslatecancel" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsnew-tab" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>New Tab</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⴰⵙⴽⵙⵍ ⴰⵎⴰⵢⵏⵓ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsnewtabsectionname" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>New Tab</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⴰⵙⴽⵙⵍ ⴰⵎⴰⵢⵏⵓ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:clientenlprojinfopliststringsshortcutitemtitlenewtab" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>New Tab</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⴰⵙⴽⵙⵍ ⴰⵎⴰⵢⵏⵓ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsno" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>No</seg>
 			</tuv>
@@ -1307,7 +1307,7 @@
 				<seg>ⵓⵀⵓ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsno" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringstranslationtoasthandlerprompttranslatecancel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>No</seg>
 			</tuv>
@@ -1331,15 +1331,7 @@
 				<seg>ⵓⵔ ⴷ ⴷⵖⵉⴽⴽ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojclearprivatedataconfirmstringsok" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>OK</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⵡⴰⵅⵅⴰ</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsaddpasserrordismiss" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsscanqrcodeerrorokbutton" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>OK</seg>
 			</tuv>
@@ -1371,6 +1363,14 @@
 				<seg>ⵡⴰⵅⵅⴰ</seg>
 			</tuv>
 		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsaddpasserrordismiss" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>OK</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⵡⴰⵅⵅⴰ</seg>
+			</tuv>
+		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsok" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>OK</seg>
@@ -1379,7 +1379,7 @@
 				<seg>ⵡⴰⵅⵅⴰ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsscanqrcodeerrorokbutton" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojclearprivatedataconfirmstringsok" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>OK</seg>
 			</tuv>
@@ -1451,7 +1451,7 @@
 				<seg>ⵕⵥⵎ ⴰⵙⴽⵙⵍ ⵓⵙⵍⵉⴳ ⴰⵎⴰⵢⵏⵓ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenunewtabactiontitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingssiriopentabshortcut" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open New Tab</seg>
 			</tuv>
@@ -1459,7 +1459,7 @@
 				<seg>ⵕⵥⵎ ⴰⵙⴽⵙⵍ ⴰⵎⴰⵢⵏⵓ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingssiriopentabshortcut" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojmenustringsmenunewtabactiontitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Open New Tab</seg>
 			</tuv>
@@ -1539,23 +1539,7 @@
 				<seg>ⴰⵔⵣⵣⵓ ⵓⵙⵍⵓⴳ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:synctelemetrytestsinfoplistcfbundlename" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:storagetestsinfoplistcfbundlename" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:clienttestsinfoplistcfbundlename" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:accountinfoplistcfbundlename" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
@@ -1571,7 +1555,7 @@
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionsnotificationserviceinfoplistcfbundlename" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:synctelemetrytestsinfoplistcfbundlename" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
@@ -1579,15 +1563,7 @@
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:syncinfoplistcfbundlename" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:storageperftestsinfoplistcfbundlename" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:storagetestsinfoplistcfbundlename" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
@@ -1611,15 +1587,7 @@
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:uitestsinfoplistcfbundlename" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionssharetoinfoplistcfbundlename" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:clienttestsinfoplistcfbundlename" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
@@ -1635,7 +1603,47 @@
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:accountinfoplistcfbundlename" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:accounttestsinfoplistcfbundlename" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:uitestsinfoplistcfbundlename" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:syncinfoplistcfbundlename" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionsnotificationserviceinfoplistcfbundlename" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:extensionssharetoinfoplistcfbundlename" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>$(PRODUCT_NAME)</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:storageperftestsinfoplistcfbundlename" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
@@ -1644,14 +1652,6 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:xcuitestsinfoplistcfbundlename" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>$(PRODUCT_NAME)</seg>
-			</tuv>
-		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:accounttestsinfoplistcfbundlename" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>$(PRODUCT_NAME)</seg>
 			</tuv>
@@ -1675,7 +1675,7 @@
 				<seg>ⴰⵍⵙ ⵙⴽⵛⵎ ⵜⴰⵏⴳⴰⵍⵜ ⵏ ⵓⵣⵔⴰⵢ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshomepanelcontextmenuremove" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsfxaremoveaccount" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
 			</tuv>
@@ -1691,7 +1691,7 @@
 				<seg>ⵙⵉⵜⵜⵢ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsfxaremoveaccount" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringshomepanelcontextmenuremove" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Remove</seg>
 			</tuv>
@@ -1771,7 +1771,7 @@
 				<seg>ⵔⵣⵓ ⴳ ⴼⴰⵢⵔⴼⵓⴽⵙ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetsearchinfirefoxv2" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetsearchinfirefoxtitle" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Search in Firefox</seg>
 			</tuv>
@@ -1779,7 +1779,7 @@
 				<seg>ⵔⵣⵓ ⴳ ⴼⴰⵢⵔⴼⵓⴽⵙ</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetsearchinfirefoxtitle" srclang="en-US">
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojtodaystringstodaywidgetsearchinfirefoxv2" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Search in Firefox</seg>
 			</tuv>
@@ -2051,14 +2051,6 @@
 				<seg>This lets you take and upload videos.</seg>
 			</tuv>
 		</tu>
-		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsaddcustomenginetitlelabel" srclang="en-US">
-			<tuv xml:lang="en-US">
-				<seg>Title</seg>
-			</tuv>
-			<tuv xml:lang="zgh">
-				<seg>ⴰⵣⵡⵍ</seg>
-			</tuv>
-		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarkstitlelabel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Title</seg>
@@ -2068,6 +2060,14 @@
 			</tuv>
 		</tu>
 		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringsbookmarkdetailfieldtitlelabel" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>Title</seg>
+			</tuv>
+			<tuv xml:lang="zgh">
+				<seg>ⴰⵣⵡⵍ</seg>
+			</tuv>
+		</tu>
+		<tu tuid="firefox-for-ios:firefox-ios.xliff:sharedenlprojlocalizablestringssettingsaddcustomenginetitlelabel" srclang="en-US">
 			<tuv xml:lang="en-US">
 				<seg>Title</seg>
 			</tuv>
